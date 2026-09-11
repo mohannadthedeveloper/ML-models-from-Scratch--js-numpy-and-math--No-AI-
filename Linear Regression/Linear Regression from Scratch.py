@@ -32,15 +32,17 @@ X = data[['TotalAmount', 'Quantity']].to_numpy()
 X_scaled = scaler.fit_transform(X)
 y = data['UnitPrice'].to_numpy()
 model.fit(X_scaled, y)
-preds = model.predict(X_scaled)
 
 
-plt.figure()
-sort_idx = np.argsort(X_scaled[:, 0])
-plt.scatter(X_scaled[:, 0], y, color='blue', label='Actual Data') 
-plt.plot(X_scaled[sort_idx], preds[sort_idx], color='red', label='Model Line') 
-plt.xlabel("Feature 1")
-plt.ylabel("Target (y)")
+X_grid = np.linspace(np.min(X_scaled[:, 0]), np.max(X_scaled[:, 0]), 100)
+X_grid_matrix = np.zeros((100, 2))
+X_grid_matrix[:, 0] = X_grid 
+preds = model.predict(X_grid_matrix)
+plt.scatter(X_scaled[:, 0], y, color='blue', label='Actual Data', alpha=0.5)
+plt.plot(X_grid_matrix[:, 0], preds, label='Model', color='orange', linewidth=3)
 plt.legend()
 plt.show()
+
+
+            
 
