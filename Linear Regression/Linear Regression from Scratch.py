@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-import seaborn as sns
 from sklearn.model_selection import train_test_split
 
 class LinearRegression:
@@ -12,7 +11,8 @@ class LinearRegression:
         self.bias = None
     
     def fit(self, X, y):
-        n, num_features = X.shape
+        n = len(X)
+        num_features = X.shape
         self.weights = np.zeros(num_features)
         for _ in range(self.epochs):
             y_pred = np.dot(self.weights, X) + self.bias
@@ -26,6 +26,15 @@ class LinearRegression:
 
 model = LinearRegression(learning_rate=0.0001, epochs=200)
 data = pd.read_csv(r"C:\Users\HP\OneDrive\Desktop\ML models from Scratch (js numpy and math, No AI)\Linear Regression\ecommerce_sales_data.csv")
-X = data['TotalAmount']
-y = data['UnitPrice']
-X_train, X_test, y_train, y_test = train_test_split()
+X = data['TotalAmount'].to_numpy()
+y = data['UnitPrice'].to_numpy()
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+model.fit(X_train, y_train)
+preds = model.predict(X_test)
+
+#evals
+plt.scatter(X_test, y_test)
+plt.plot(X_test, preds, label='LinReg Model', color='orange')
+plt.legend()
+plt.tight_layout()
+plt.show()
