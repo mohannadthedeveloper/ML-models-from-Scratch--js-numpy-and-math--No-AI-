@@ -1,0 +1,1001 @@
+OrderID,CustomerID,TransactionDate,ProductCategory,ProductName,UnitPrice,Quantity,TotalAmount,PaymentMethod,Status
+ORD100000,CUST1102,2026-08-12,Clothing,Crewneck Sweater,51.34,1,51.34,Crypto,Completed
+ORD100001,CUST1179,2026-08-27,Home & Kitchen,Hydro Flask,39.77,2,79.54,PayPal,Completed
+ORD100002,CUST1092,2026-06-26,Home & Kitchen,Ninja Blender,108.55,2,217.1,PayPal,Completed
+ORD100003,CUST1014,2026-01-11,Clothing,Nike Hoodie,58.67,1,58.67,Apple Pay,Completed
+ORD100004,CUST1106,2026-03-26,Clothing,Carhartt Jacket,97.95,1,97.95,Crypto,Completed
+ORD100005,CUST1071,2026-01-26,Clothing,Nike Hoodie,35.54,1,35.54,Apple Pay,Cancelled
+ORD100006,CUST1188,2026-03-04,Books,Cookbook,16.37,1,16.37,Credit Card,Completed
+ORD100007,CUST1020,2026-08-05,Clothing,Levi Jeans,77.1,2,154.2,PayPal,Completed
+ORD100008,CUST1102,2026-03-27,Clothing,Nike Hoodie,48.07,1,48.07,PayPal,Completed
+ORD100009,CUST1121,2026-02-28,Clothing,Crewneck Sweater,40.68,3,122.04,Credit Card,Completed
+ORD100010,CUST1210,2026-01-27,Clothing,Carhartt Jacket,127.82,1,127.82,Credit Card,Completed
+ORD100011,CUST1214,2026-06-26,Books,Sci-Fi Novel,24.87,1,24.87,Apple Pay,Completed
+ORD100012,CUST1074,2026-07-24,Clothing,Nike Hoodie,48.58,1,48.58,PayPal,Completed
+ORD100013,CUST1202,2026-06-10,Home & Kitchen,Hydro Flask,47.11,1,47.11,Credit Card,Completed
+ORD100014,CUST1087,2026-04-08,Home & Kitchen,Memory Foam Pillow,38.51,2,77.02,PayPal,Completed
+ORD100015,CUST1116,2026-04-15,Clothing,Nike Hoodie,51.72,2,103.44,Credit Card,Completed
+ORD100016,CUST1099,2026-04-09,Clothing,Levi Jeans,138.95,1,138.95,Credit Card,Completed
+ORD100017,CUST1103,2026-05-09,Books,Financial Freedom Manual,22.75,1,22.75,Apple Pay,Returned
+ORD100018,CUST1151,2026-05-29,Clothing,Carhartt Jacket,74.97,1,74.97,Credit Card,Completed
+ORD100019,CUST1130,2026-08-28,Clothing,Carhartt Jacket,98.47,1,98.47,Credit Card,Completed
+ORD100020,CUST1149,2026-02-24,Books,Financial Freedom Manual,13.77,1,13.77,Crypto,Completed
+ORD100021,CUST1052,2026-01-06,Electronics,iPhone 15,770.13,1,770.13,Credit Card,Returned
+ORD100022,CUST1001,2026-08-08,Electronics,Anker Power Bank,23.28,1,23.28,Credit Card,Completed
+ORD100023,CUST1087,2026-07-28,Clothing,Carhartt Jacket,130.53,3,391.59,Crypto,Completed
+ORD100024,CUST1235,2026-07-16,Books,Cookbook,22.88,1,22.88,PayPal,Completed
+ORD100025,CUST1157,2026-04-05,Electronics,Logitech Mouse,37.4,1,37.4,PayPal,Completed
+ORD100026,CUST1037,2026-05-13,Electronics,MacBook Air,1044.65,1,1044.65,Apple Pay,Completed
+ORD100027,CUST1129,2026-04-12,Electronics,AirPods Pro,130.05,1,130.05,Credit Card,Completed
+ORD100028,CUST1191,2026-01-03,Electronics,iPhone 15,752.71,1,752.71,PayPal,Completed
+ORD100029,CUST1187,2026-06-30,Electronics,iPhone 15,759.41,3,2278.23,PayPal,Completed
+ORD100030,CUST1020,2026-01-23,Clothing,Adidas Sneakers,142.73,2,285.46,Apple Pay,Completed
+ORD100031,CUST1160,2026-08-17,Clothing,Nike Hoodie,44.76,1,44.76,PayPal,Returned
+ORD100032,CUST1203,2026-02-22,Electronics,MacBook Air,960.54,1,960.54,PayPal,Cancelled
+ORD100033,CUST1057,2026-06-14,Clothing,Carhartt Jacket,106.13,1,106.13,Credit Card,Completed
+ORD100034,CUST1021,2026-07-21,Electronics,MacBook Air,988.03,2,1976.06,Credit Card,Completed
+ORD100035,CUST1235,2026-07-21,Clothing,Adidas Sneakers,105.28,1,105.28,Apple Pay,Completed
+ORD100036,CUST1088,2026-03-24,Clothing,Adidas Sneakers,86.29,1,86.29,PayPal,Completed
+ORD100037,CUST1048,2026-05-25,Home & Kitchen,Hydro Flask,37.34,1,37.34,PayPal,Completed
+ORD100038,CUST1218,2026-03-26,Electronics,Logitech Mouse,35.85,1,35.85,Credit Card,Completed
+ORD100039,CUST1058,2026-03-19,Clothing,Carhartt Jacket,92.11,1,92.11,PayPal,Returned
+ORD100040,CUST1169,2026-07-20,Electronics,iPhone 15,789.59,3,2368.77,PayPal,Completed
+ORD100041,CUST1219,2026-04-20,Books,Python Programming Guide,15.36,1,15.36,Apple Pay,Completed
+ORD100042,CUST1187,2026-01-01,Home & Kitchen,Desk Lamp,31.15,1,31.15,PayPal,Completed
+ORD100043,CUST1207,2026-02-20,Clothing,Levi Jeans,95.33,1,95.33,Apple Pay,Completed
+ORD100044,CUST1014,2026-06-22,Electronics,MacBook Air,986.3,2,1972.6,Apple Pay,Completed
+ORD100045,CUST1189,2026-07-24,Books,Financial Freedom Manual,17.14,3,51.42,PayPal,Completed
+ORD100046,CUST1189,2026-01-04,Electronics,iPhone 15,809.8,1,809.8,PayPal,Completed
+ORD100047,CUST1174,2026-07-09,Electronics,Anker Power Bank,34.64,2,69.28,Apple Pay,Completed
+ORD100048,CUST1189,2026-07-12,Clothing,Adidas Sneakers,95.04,1,95.04,PayPal,Completed
+ORD100049,CUST1050,2026-04-23,Electronics,MacBook Air,1038.23,1,1038.23,Apple Pay,Cancelled
+ORD100050,CUST1107,2026-08-20,Books,Biography,24.09,1,24.09,PayPal,Completed
+ORD100051,CUST1054,2026-02-01,Home & Kitchen,Ninja Blender,106.7,1,106.7,PayPal,Completed
+ORD100052,CUST1243,2026-02-03,Electronics,Anker Power Bank,33.35,1,33.35,Credit Card,Completed
+ORD100053,CUST1063,2026-04-02,Clothing,Crewneck Sweater,43.07,1,43.07,Credit Card,Completed
+ORD100054,CUST1248,2026-04-05,Books,Biography,26.22,1,26.22,Crypto,Completed
+ORD100055,CUST1130,2026-03-13,Books,Financial Freedom Manual,15.42,3,46.26,PayPal,Completed
+ORD100056,CUST1228,2026-02-08,Home & Kitchen,Air Fryer,117.46,1,117.46,PayPal,Completed
+ORD100057,CUST1050,2026-06-03,Books,Financial Freedom Manual,20.9,1,20.9,Apple Pay,Completed
+ORD100058,CUST1134,2026-09-07,Books,Sci-Fi Novel,25.33,1,25.33,PayPal,Completed
+ORD100059,CUST1020,2026-06-11,Home & Kitchen,Hydro Flask,36.98,2,73.96,PayPal,Completed
+ORD100060,CUST1072,2026-07-01,Electronics,Anker Power Bank,39.46,1,39.46,Apple Pay,Completed
+ORD100061,CUST1166,2026-04-28,Clothing,Carhartt Jacket,138.64,1,138.64,PayPal,Completed
+ORD100062,CUST1017,2026-01-03,Books,Biography,26.76,3,80.28,Credit Card,Completed
+ORD100063,CUST1131,2026-05-03,Electronics,MacBook Air,1025.95,1,1025.95,Credit Card,Returned
+ORD100064,CUST1088,2026-02-19,Books,Sci-Fi Novel,20.06,1,20.06,Credit Card,Completed
+ORD100065,CUST1059,2026-01-12,Electronics,Logitech Mouse,29.18,2,58.36,Credit Card,Completed
+ORD100066,CUST1013,2026-07-12,Electronics,Anker Power Bank,25.08,1,25.08,PayPal,Completed
+ORD100067,CUST1241,2026-02-23,Clothing,Adidas Sneakers,140.38,1,140.38,Credit Card,Completed
+ORD100068,CUST1249,2026-08-24,Electronics,AirPods Pro,89.54,1,89.54,Credit Card,Completed
+ORD100069,CUST1008,2026-05-13,Books,Biography,25.38,1,25.38,Credit Card,Completed
+ORD100070,CUST1089,2026-08-10,Books,Sci-Fi Novel,16.59,1,16.59,Credit Card,Returned
+ORD100071,CUST1052,2026-08-10,Books,Biography,26.57,1,26.57,PayPal,Completed
+ORD100072,CUST1129,2026-02-26,Home & Kitchen,Air Fryer,108.0,1,108.0,Apple Pay,Completed
+ORD100073,CUST1083,2026-05-25,Electronics,AirPods Pro,119.09,1,119.09,PayPal,Completed
+ORD100074,CUST1091,2026-04-22,Clothing,Nike Hoodie,56.03,2,112.06,Credit Card,Completed
+ORD100075,CUST1110,2026-02-16,Clothing,Adidas Sneakers,137.49,1,137.49,Credit Card,Completed
+ORD100076,CUST1187,2026-05-31,Clothing,Adidas Sneakers,120.72,1,120.72,Credit Card,Completed
+ORD100077,CUST1198,2026-07-26,Electronics,Logitech Mouse,34.78,2,69.56,PayPal,Completed
+ORD100078,CUST1171,2026-08-17,Clothing,Levi Jeans,96.0,1,96.0,Credit Card,Completed
+ORD100079,CUST1007,2026-03-26,Clothing,Carhartt Jacket,124.52,1,124.52,PayPal,Completed
+ORD100080,CUST1174,2026-05-22,Books,Sci-Fi Novel,22.82,3,68.46,Credit Card,Completed
+ORD100081,CUST1034,2026-03-07,Books,Sci-Fi Novel,25.55,1,25.55,Apple Pay,Returned
+ORD100082,CUST1205,2026-03-16,Clothing,Adidas Sneakers,125.52,1,125.52,Credit Card,Completed
+ORD100083,CUST1080,2026-06-28,Home & Kitchen,Ninja Blender,98.61,2,197.22,Credit Card,Returned
+ORD100084,CUST1163,2026-04-13,Home & Kitchen,Memory Foam Pillow,35.82,1,35.82,Apple Pay,Completed
+ORD100085,CUST1049,2026-06-15,Electronics,Anker Power Bank,28.16,1,28.16,Credit Card,Completed
+ORD100086,CUST1103,2026-07-11,Books,Biography,27.06,1,27.06,Credit Card,Returned
+ORD100087,CUST1131,2026-08-14,Books,Biography,16.48,1,16.48,PayPal,Completed
+ORD100088,CUST1001,2026-02-07,Clothing,Nike Hoodie,54.7,1,54.7,PayPal,Completed
+ORD100089,CUST1133,2026-02-19,Clothing,Crewneck Sweater,57.46,3,172.38,PayPal,Completed
+ORD100090,CUST1053,2026-04-08,Electronics,MacBook Air,1040.71,1,1040.71,Credit Card,Completed
+ORD100091,CUST1105,2026-03-23,Clothing,Adidas Sneakers,70.01,2,140.02,Credit Card,Completed
+ORD100092,CUST1003,2026-01-30,Electronics,MacBook Air,961.09,1,961.09,Credit Card,Completed
+ORD100093,CUST1053,2026-03-20,Books,Biography,18.71,2,37.42,Credit Card,Returned
+ORD100094,CUST1220,2026-04-01,Electronics,MacBook Air,991.27,2,1982.54,Apple Pay,Returned
+ORD100095,CUST1190,2026-06-28,Clothing,Adidas Sneakers,103.79,1,103.79,PayPal,Completed
+ORD100096,CUST1145,2026-07-10,Books,Sci-Fi Novel,19.31,1,19.31,Credit Card,Completed
+ORD100097,CUST1217,2026-08-14,Home & Kitchen,Hydro Flask,59.15,1,59.15,PayPal,Completed
+ORD100098,CUST1043,2026-02-21,Electronics,iPhone 15,779.21,1,779.21,Credit Card,Completed
+ORD100099,CUST1161,2026-09-06,Electronics,MacBook Air,1032.59,2,2065.18,Apple Pay,Completed
+ORD100100,CUST1201,2026-06-15,Electronics,MacBook Air,1030.48,2,2060.96,Credit Card,Completed
+ORD100101,CUST1189,2026-08-13,Home & Kitchen,Desk Lamp,39.63,1,39.63,Credit Card,Completed
+ORD100102,CUST1227,2026-08-04,Electronics,iPhone 15,780.47,1,780.47,PayPal,Completed
+ORD100103,CUST1013,2026-03-20,Clothing,Nike Hoodie,42.03,1,42.03,PayPal,Completed
+ORD100104,CUST1094,2026-01-30,Books,Biography,14.68,1,14.68,PayPal,Cancelled
+ORD100105,CUST1047,2026-09-04,Electronics,Anker Power Bank,30.8,1,30.8,Credit Card,Cancelled
+ORD100106,CUST1014,2026-04-16,Books,Sci-Fi Novel,16.62,2,33.24,Credit Card,Completed
+ORD100107,CUST1199,2026-02-20,Books,Sci-Fi Novel,20.02,4,80.08,Credit Card,Completed
+ORD100108,CUST1205,2026-03-22,Electronics,iPhone 15,832.44,1,832.44,Credit Card,Cancelled
+ORD100109,CUST1214,2026-05-13,Books,Cookbook,17.45,1,17.45,Apple Pay,Completed
+ORD100110,CUST1248,2026-01-29,Clothing,Adidas Sneakers,128.41,1,128.41,Credit Card,Completed
+ORD100111,CUST1189,2026-05-12,Books,Sci-Fi Novel,13.71,1,13.71,Credit Card,Completed
+ORD100112,CUST1039,2026-05-18,Clothing,Carhartt Jacket,140.17,1,140.17,PayPal,Completed
+ORD100113,CUST1212,2026-07-03,Home & Kitchen,Hydro Flask,51.69,1,51.69,Credit Card,Completed
+ORD100114,CUST1207,2026-05-25,Clothing,Nike Hoodie,59.72,2,119.44,PayPal,Completed
+ORD100115,CUST1236,2026-03-15,Books,Cookbook,25.56,1,25.56,Apple Pay,Completed
+ORD100116,CUST1081,2026-01-17,Home & Kitchen,Desk Lamp,31.65,1,31.65,Credit Card,Completed
+ORD100117,CUST1110,2026-03-25,Clothing,Levi Jeans,115.86,3,347.58,Apple Pay,Cancelled
+ORD100118,CUST1052,2026-08-04,Books,Cookbook,13.94,2,27.88,PayPal,Completed
+ORD100119,CUST1023,2026-03-10,Electronics,Logitech Mouse,24.39,1,24.39,Credit Card,Completed
+ORD100120,CUST1153,2026-02-03,Electronics,Logitech Mouse,22.29,1,22.29,Credit Card,Completed
+ORD100121,CUST1216,2026-01-06,Electronics,Anker Power Bank,30.49,1,30.49,Credit Card,Completed
+ORD100122,CUST1187,2026-02-22,Clothing,Nike Hoodie,51.72,2,103.44,PayPal,Completed
+ORD100123,CUST1123,2026-07-13,Electronics,iPhone 15,756.46,2,1512.92,Apple Pay,Returned
+ORD100124,CUST1236,2026-07-24,Books,Sci-Fi Novel,13.37,1,13.37,Apple Pay,Completed
+ORD100125,CUST1040,2026-05-06,Electronics,Logitech Mouse,38.2,1,38.2,Crypto,Completed
+ORD100126,CUST1156,2026-08-23,Home & Kitchen,Ninja Blender,103.62,2,207.24,Apple Pay,Completed
+ORD100127,CUST1014,2026-02-12,Electronics,Logitech Mouse,28.86,1,28.86,PayPal,Completed
+ORD100128,CUST1044,2026-08-28,Books,Cookbook,22.46,1,22.46,Credit Card,Completed
+ORD100129,CUST1064,2026-07-22,Books,Biography,24.82,1,24.82,PayPal,Cancelled
+ORD100130,CUST1088,2026-04-25,Clothing,Adidas Sneakers,88.98,1,88.98,Credit Card,Completed
+ORD100131,CUST1070,2026-04-21,Books,Biography,14.55,1,14.55,PayPal,Completed
+ORD100132,CUST1008,2026-09-06,Electronics,Logitech Mouse,29.74,2,59.48,Credit Card,Cancelled
+ORD100133,CUST1087,2026-05-31,Books,Biography,27.25,3,81.75,Credit Card,Completed
+ORD100134,CUST1128,2026-07-02,Electronics,AirPods Pro,107.82,1,107.82,Credit Card,Completed
+ORD100135,CUST1235,2026-03-21,Books,Sci-Fi Novel,20.58,1,20.58,Credit Card,Completed
+ORD100136,CUST1135,2026-04-05,Electronics,iPhone 15,750.28,1,750.28,PayPal,Completed
+ORD100137,CUST1215,2026-07-22,Clothing,Crewneck Sweater,46.8,1,46.8,Credit Card,Completed
+ORD100138,CUST1062,2026-04-28,Home & Kitchen,Hydro Flask,57.67,1,57.67,PayPal,Returned
+ORD100139,CUST1138,2026-05-24,Electronics,MacBook Air,977.67,3,2933.01,Credit Card,Completed
+ORD100140,CUST1242,2026-01-08,Electronics,iPhone 15,795.04,1,795.04,PayPal,Completed
+ORD100141,CUST1080,2026-05-12,Electronics,Anker Power Bank,29.63,1,29.63,Credit Card,Completed
+ORD100142,CUST1135,2026-04-14,Clothing,Adidas Sneakers,105.79,1,105.79,Credit Card,Completed
+ORD100143,CUST1162,2026-05-12,Clothing,Carhartt Jacket,86.55,2,173.1,PayPal,Completed
+ORD100144,CUST1162,2026-07-03,Electronics,Anker Power Bank,30.73,2,61.46,Credit Card,Completed
+ORD100145,CUST1032,2026-01-25,Clothing,Nike Hoodie,35.18,3,105.54,Credit Card,Completed
+ORD100146,CUST1122,2026-07-14,Electronics,MacBook Air,1034.38,2,2068.76,Credit Card,Completed
+ORD100147,CUST1004,2026-04-06,Books,Sci-Fi Novel,18.07,1,18.07,Credit Card,Completed
+ORD100148,CUST1233,2026-07-14,Electronics,Anker Power Bank,28.76,1,28.76,PayPal,Completed
+ORD100149,CUST1230,2026-06-04,Electronics,AirPods Pro,93.47,1,93.47,Credit Card,Completed
+ORD100150,CUST1249,2026-04-03,Electronics,iPhone 15,789.69,1,789.69,PayPal,Completed
+ORD100151,CUST1040,2026-06-09,Clothing,Crewneck Sweater,42.1,1,42.1,Apple Pay,Completed
+ORD100152,CUST1027,2026-06-27,Books,Sci-Fi Novel,14.7,1,14.7,Credit Card,Completed
+ORD100153,CUST1134,2026-03-02,Clothing,Adidas Sneakers,140.38,1,140.38,Crypto,Completed
+ORD100154,CUST1200,2026-05-02,Electronics,iPhone 15,752.96,1,752.96,PayPal,Cancelled
+ORD100155,CUST1071,2026-02-20,Home & Kitchen,Air Fryer,91.78,1,91.78,PayPal,Completed
+ORD100156,CUST1011,2026-05-27,Home & Kitchen,Air Fryer,95.25,2,190.5,PayPal,Returned
+ORD100157,CUST1161,2026-01-21,Electronics,Anker Power Bank,27.88,1,27.88,PayPal,Completed
+ORD100158,CUST1032,2026-01-05,Home & Kitchen,Desk Lamp,34.59,1,34.59,PayPal,Completed
+ORD100159,CUST1047,2026-07-29,Books,Cookbook,23.7,1,23.7,Credit Card,Completed
+ORD100160,CUST1246,2026-04-02,Electronics,Logitech Mouse,33.48,1,33.48,Credit Card,Cancelled
+ORD100161,CUST1150,2026-06-19,Home & Kitchen,Ninja Blender,122.94,1,122.94,Credit Card,Completed
+ORD100162,CUST1061,2026-03-02,Home & Kitchen,Desk Lamp,36.41,1,36.41,Credit Card,Completed
+ORD100163,CUST1215,2026-01-22,Clothing,Nike Hoodie,50.9,1,50.9,Credit Card,Cancelled
+ORD100164,CUST1036,2026-05-29,Electronics,Anker Power Bank,36.58,1,36.58,Credit Card,Completed
+ORD100165,CUST1098,2026-03-11,Electronics,iPhone 15,810.37,1,810.37,Credit Card,Completed
+ORD100166,CUST1171,2026-01-01,Books,Python Programming Guide,16.84,1,16.84,PayPal,Completed
+ORD100167,CUST1103,2026-05-13,Books,Biography,18.75,1,18.75,Apple Pay,Completed
+ORD100168,CUST1213,2026-08-21,Home & Kitchen,Desk Lamp,27.37,1,27.37,Apple Pay,Completed
+ORD100169,CUST1218,2026-01-12,Clothing,Adidas Sneakers,117.7,1,117.7,Credit Card,Completed
+ORD100170,CUST1034,2026-03-31,Home & Kitchen,Desk Lamp,38.0,1,38.0,PayPal,Completed
+ORD100171,CUST1192,2026-02-15,Clothing,Carhartt Jacket,76.4,1,76.4,Apple Pay,Completed
+ORD100172,CUST1226,2026-02-03,Clothing,Nike Hoodie,58.53,1,58.53,Credit Card,Cancelled
+ORD100173,CUST1100,2026-06-26,Electronics,Anker Power Bank,33.56,1,33.56,Credit Card,Returned
+ORD100174,CUST1174,2026-03-19,Books,Python Programming Guide,26.31,1,26.31,Apple Pay,Completed
+ORD100175,CUST1205,2026-08-06,Clothing,Crewneck Sweater,35.24,2,70.48,PayPal,Completed
+ORD100176,CUST1130,2026-02-14,Books,Python Programming Guide,15.07,2,30.14,Credit Card,Completed
+ORD100177,CUST1000,2026-06-04,Electronics,iPhone 15,811.25,2,1622.5,Credit Card,Completed
+ORD100178,CUST1004,2026-03-14,Electronics,Logitech Mouse,23.43,1,23.43,Credit Card,Completed
+ORD100179,CUST1217,2026-01-26,Electronics,MacBook Air,1024.09,1,1024.09,Apple Pay,Completed
+ORD100180,CUST1246,2026-09-06,Clothing,Crewneck Sweater,36.65,1,36.65,PayPal,Completed
+ORD100181,CUST1141,2026-02-16,Books,Python Programming Guide,13.17,1,13.17,Credit Card,Completed
+ORD100182,CUST1102,2026-05-01,Electronics,Logitech Mouse,25.89,1,25.89,Credit Card,Completed
+ORD100183,CUST1026,2026-08-02,Books,Sci-Fi Novel,14.26,1,14.26,PayPal,Completed
+ORD100184,CUST1136,2026-08-27,Clothing,Levi Jeans,142.8,3,428.4,PayPal,Completed
+ORD100185,CUST1206,2026-02-25,Books,Sci-Fi Novel,16.23,1,16.23,Credit Card,Completed
+ORD100186,CUST1014,2026-04-04,Electronics,iPhone 15,822.91,2,1645.82,Apple Pay,Completed
+ORD100187,CUST1089,2026-04-17,Books,Sci-Fi Novel,14.0,1,14.0,Credit Card,Completed
+ORD100188,CUST1041,2026-03-04,Home & Kitchen,Memory Foam Pillow,52.3,1,52.3,Credit Card,Completed
+ORD100189,CUST1123,2026-02-17,Electronics,AirPods Pro,102.3,1,102.3,PayPal,Completed
+ORD100190,CUST1204,2026-03-02,Electronics,Anker Power Bank,25.5,1,25.5,Credit Card,Completed
+ORD100191,CUST1178,2026-03-22,Books,Cookbook,25.92,2,51.84,Apple Pay,Completed
+ORD100192,CUST1062,2026-01-26,Books,Biography,16.38,1,16.38,PayPal,Completed
+ORD100193,CUST1095,2026-02-05,Electronics,MacBook Air,995.0,1,995.0,Apple Pay,Completed
+ORD100194,CUST1230,2026-01-01,Home & Kitchen,Desk Lamp,38.32,2,76.64,Credit Card,Returned
+ORD100195,CUST1240,2026-01-08,Books,Financial Freedom Manual,21.72,1,21.72,Credit Card,Completed
+ORD100196,CUST1051,2026-04-23,Books,Python Programming Guide,18.54,4,74.16,Credit Card,Completed
+ORD100197,CUST1095,2026-04-09,Books,Biography,18.88,1,18.88,PayPal,Completed
+ORD100198,CUST1131,2026-06-29,Home & Kitchen,Hydro Flask,39.16,1,39.16,PayPal,Completed
+ORD100199,CUST1221,2026-07-26,Clothing,Crewneck Sweater,51.13,1,51.13,Apple Pay,Completed
+ORD100200,CUST1228,2026-02-16,Clothing,Crewneck Sweater,57.24,1,57.24,PayPal,Completed
+ORD100201,CUST1150,2026-05-07,Clothing,Nike Hoodie,58.66,1,58.66,Apple Pay,Completed
+ORD100202,CUST1230,2026-02-25,Home & Kitchen,Air Fryer,91.01,1,91.01,PayPal,Completed
+ORD100203,CUST1236,2026-08-02,Home & Kitchen,Desk Lamp,27.57,2,55.14,Credit Card,Completed
+ORD100204,CUST1142,2026-01-14,Electronics,MacBook Air,984.05,2,1968.1,Credit Card,Cancelled
+ORD100205,CUST1170,2026-08-06,Books,Financial Freedom Manual,19.13,1,19.13,PayPal,Returned
+ORD100206,CUST1028,2026-01-28,Home & Kitchen,Ninja Blender,94.04,1,94.04,Credit Card,Completed
+ORD100207,CUST1035,2026-08-03,Clothing,Crewneck Sweater,48.27,1,48.27,Credit Card,Completed
+ORD100208,CUST1012,2026-03-19,Clothing,Carhartt Jacket,116.41,1,116.41,PayPal,Completed
+ORD100209,CUST1159,2026-08-04,Clothing,Nike Hoodie,37.62,1,37.62,Apple Pay,Completed
+ORD100210,CUST1070,2026-05-10,Electronics,iPhone 15,764.05,1,764.05,Credit Card,Completed
+ORD100211,CUST1186,2026-04-19,Electronics,Anker Power Bank,24.56,1,24.56,Apple Pay,Completed
+ORD100212,CUST1242,2026-06-03,Electronics,MacBook Air,1003.18,1,1003.18,Apple Pay,Cancelled
+ORD100213,CUST1085,2026-01-14,Electronics,Anker Power Bank,27.67,4,110.68,Credit Card,Returned
+ORD100214,CUST1027,2026-07-06,Clothing,Adidas Sneakers,86.7,1,86.7,Credit Card,Completed
+ORD100215,CUST1065,2026-02-25,Clothing,Adidas Sneakers,101.03,1,101.03,Credit Card,Completed
+ORD100216,CUST1169,2026-04-25,Electronics,AirPods Pro,101.62,1,101.62,PayPal,Completed
+ORD100217,CUST1044,2026-01-07,Home & Kitchen,Air Fryer,95.87,1,95.87,PayPal,Completed
+ORD100218,CUST1061,2026-01-03,Electronics,Anker Power Bank,25.77,1,25.77,Apple Pay,Completed
+ORD100219,CUST1184,2026-04-21,Books,Cookbook,25.52,1,25.52,PayPal,Completed
+ORD100220,CUST1244,2026-05-31,Books,Cookbook,27.33,2,54.66,Credit Card,Completed
+ORD100221,CUST1133,2026-08-26,Electronics,Anker Power Bank,29.47,1,29.47,Credit Card,Completed
+ORD100222,CUST1027,2026-04-17,Clothing,Carhartt Jacket,149.58,1,149.58,PayPal,Completed
+ORD100223,CUST1027,2026-08-27,Electronics,iPhone 15,848.39,4,3393.56,Credit Card,Completed
+ORD100224,CUST1107,2026-08-25,Clothing,Crewneck Sweater,50.16,2,100.32,Credit Card,Completed
+ORD100225,CUST1043,2026-01-18,Home & Kitchen,Desk Lamp,20.61,1,20.61,Credit Card,Completed
+ORD100226,CUST1083,2026-09-07,Electronics,Logitech Mouse,39.59,1,39.59,Credit Card,Completed
+ORD100227,CUST1029,2026-02-07,Clothing,Nike Hoodie,48.83,1,48.83,Credit Card,Completed
+ORD100228,CUST1189,2026-08-15,Electronics,AirPods Pro,83.46,1,83.46,Credit Card,Completed
+ORD100229,CUST1074,2026-04-25,Electronics,Anker Power Bank,36.66,1,36.66,Credit Card,Completed
+ORD100230,CUST1127,2026-01-15,Home & Kitchen,Air Fryer,104.24,1,104.24,Credit Card,Completed
+ORD100231,CUST1249,2026-07-11,Clothing,Levi Jeans,90.74,1,90.74,PayPal,Completed
+ORD100232,CUST1246,2026-08-05,Clothing,Adidas Sneakers,84.16,1,84.16,Apple Pay,Completed
+ORD100233,CUST1091,2026-04-29,Clothing,Crewneck Sweater,43.55,1,43.55,Credit Card,Completed
+ORD100234,CUST1216,2026-08-17,Books,Biography,16.52,1,16.52,Apple Pay,Completed
+ORD100235,CUST1230,2026-01-28,Electronics,MacBook Air,1005.76,1,1005.76,Credit Card,Completed
+ORD100236,CUST1189,2026-07-21,Clothing,Adidas Sneakers,83.21,1,83.21,PayPal,Completed
+ORD100237,CUST1224,2026-02-08,Home & Kitchen,Memory Foam Pillow,46.09,1,46.09,Apple Pay,Completed
+ORD100238,CUST1128,2026-07-04,Clothing,Levi Jeans,109.1,1,109.1,PayPal,Completed
+ORD100239,CUST1120,2026-01-17,Books,Financial Freedom Manual,24.73,1,24.73,Apple Pay,Completed
+ORD100240,CUST1026,2026-08-19,Home & Kitchen,Air Fryer,125.2,1,125.2,Credit Card,Completed
+ORD100241,CUST1189,2026-03-27,Home & Kitchen,Ninja Blender,121.69,1,121.69,Credit Card,Completed
+ORD100242,CUST1120,2026-08-06,Home & Kitchen,Air Fryer,98.04,1,98.04,Apple Pay,Completed
+ORD100243,CUST1115,2026-05-06,Books,Cookbook,15.21,2,30.42,Credit Card,Returned
+ORD100244,CUST1204,2026-02-13,Books,Cookbook,20.12,2,40.24,Credit Card,Completed
+ORD100245,CUST1232,2026-01-25,Home & Kitchen,Desk Lamp,38.13,1,38.13,PayPal,Returned
+ORD100246,CUST1002,2026-05-25,Home & Kitchen,Air Fryer,126.37,1,126.37,Apple Pay,Returned
+ORD100247,CUST1102,2026-01-13,Electronics,MacBook Air,985.34,1,985.34,Apple Pay,Completed
+ORD100248,CUST1197,2026-07-31,Electronics,Logitech Mouse,20.75,1,20.75,Credit Card,Completed
+ORD100249,CUST1199,2026-01-25,Clothing,Adidas Sneakers,113.94,1,113.94,Apple Pay,Completed
+ORD100250,CUST1154,2026-03-09,Electronics,Anker Power Bank,35.87,3,107.61,Credit Card,Cancelled
+ORD100251,CUST1136,2026-05-18,Clothing,Carhartt Jacket,107.33,1,107.33,Credit Card,Completed
+ORD100252,CUST1061,2026-03-08,Electronics,AirPods Pro,145.51,1,145.51,PayPal,Completed
+ORD100253,CUST1164,2026-08-21,Clothing,Nike Hoodie,58.72,2,117.44,Credit Card,Completed
+ORD100254,CUST1224,2026-04-19,Home & Kitchen,Hydro Flask,59.51,3,178.53,Credit Card,Completed
+ORD100255,CUST1050,2026-05-26,Books,Biography,24.31,2,48.62,PayPal,Completed
+ORD100256,CUST1233,2026-04-21,Electronics,AirPods Pro,109.3,1,109.3,Credit Card,Completed
+ORD100257,CUST1171,2026-08-16,Clothing,Adidas Sneakers,86.25,1,86.25,Credit Card,Completed
+ORD100258,CUST1151,2026-04-21,Books,Financial Freedom Manual,20.66,1,20.66,Credit Card,Completed
+ORD100259,CUST1206,2026-08-02,Electronics,iPhone 15,786.22,1,786.22,Credit Card,Completed
+ORD100260,CUST1058,2026-02-03,Books,Sci-Fi Novel,25.97,1,25.97,Credit Card,Completed
+ORD100261,CUST1117,2026-04-21,Clothing,Adidas Sneakers,102.6,1,102.6,Apple Pay,Completed
+ORD100262,CUST1159,2026-01-08,Clothing,Adidas Sneakers,118.16,3,354.48,Apple Pay,Completed
+ORD100263,CUST1095,2026-06-17,Books,Biography,25.09,1,25.09,Credit Card,Completed
+ORD100264,CUST1215,2026-04-23,Electronics,MacBook Air,970.04,1,970.04,Apple Pay,Completed
+ORD100265,CUST1232,2026-08-24,Home & Kitchen,Ninja Blender,92.37,1,92.37,Credit Card,Completed
+ORD100266,CUST1179,2026-03-24,Books,Cookbook,19.58,1,19.58,Credit Card,Completed
+ORD100267,CUST1112,2026-02-11,Electronics,iPhone 15,779.83,1,779.83,Apple Pay,Completed
+ORD100268,CUST1061,2026-06-18,Home & Kitchen,Air Fryer,102.47,1,102.47,Credit Card,Completed
+ORD100269,CUST1240,2026-04-11,Books,Financial Freedom Manual,19.71,1,19.71,Crypto,Completed
+ORD100270,CUST1185,2026-01-06,Electronics,Anker Power Bank,39.42,2,78.84,Credit Card,Completed
+ORD100271,CUST1051,2026-06-29,Books,Cookbook,26.89,1,26.89,Apple Pay,Completed
+ORD100272,CUST1011,2026-01-26,Clothing,Levi Jeans,108.14,4,432.56,Credit Card,Completed
+ORD100273,CUST1038,2026-03-05,Home & Kitchen,Memory Foam Pillow,35.75,1,35.75,Credit Card,Completed
+ORD100274,CUST1129,2026-08-14,Home & Kitchen,Air Fryer,117.69,1,117.69,Credit Card,Completed
+ORD100275,CUST1130,2026-07-06,Electronics,AirPods Pro,120.59,1,120.59,PayPal,Returned
+ORD100276,CUST1112,2026-07-03,Books,Cookbook,18.37,1,18.37,PayPal,Returned
+ORD100277,CUST1100,2026-02-28,Books,Python Programming Guide,17.99,1,17.99,Apple Pay,Completed
+ORD100278,CUST1112,2026-04-19,Home & Kitchen,Air Fryer,98.42,1,98.42,Credit Card,Completed
+ORD100279,CUST1183,2026-07-17,Home & Kitchen,Ninja Blender,121.73,2,243.46,Credit Card,Completed
+ORD100280,CUST1080,2026-08-17,Home & Kitchen,Air Fryer,129.9,2,259.8,Credit Card,Completed
+ORD100281,CUST1186,2026-05-01,Clothing,Levi Jeans,136.27,1,136.27,PayPal,Completed
+ORD100282,CUST1112,2026-02-02,Home & Kitchen,Air Fryer,119.5,2,239.0,Apple Pay,Completed
+ORD100283,CUST1001,2026-06-30,Clothing,Nike Hoodie,50.81,1,50.81,Credit Card,Completed
+ORD100284,CUST1129,2026-05-30,Clothing,Crewneck Sweater,35.13,2,70.26,PayPal,Completed
+ORD100285,CUST1219,2026-01-21,Home & Kitchen,Memory Foam Pillow,55.54,1,55.54,Credit Card,Completed
+ORD100286,CUST1053,2026-07-17,Clothing,Nike Hoodie,54.14,1,54.14,PayPal,Completed
+ORD100287,CUST1086,2026-03-11,Electronics,Logitech Mouse,33.99,2,67.98,Apple Pay,Completed
+ORD100288,CUST1228,2026-09-04,Electronics,iPhone 15,822.3,1,822.3,Credit Card,Completed
+ORD100289,CUST1223,2026-04-22,Clothing,Carhartt Jacket,102.56,2,205.12,Credit Card,Completed
+ORD100290,CUST1224,2026-01-04,Home & Kitchen,Air Fryer,103.94,1,103.94,Crypto,Completed
+ORD100291,CUST1128,2026-04-04,Clothing,Adidas Sneakers,120.56,1,120.56,Apple Pay,Completed
+ORD100292,CUST1146,2026-03-16,Home & Kitchen,Memory Foam Pillow,58.68,1,58.68,PayPal,Completed
+ORD100293,CUST1125,2026-07-09,Clothing,Levi Jeans,70.48,1,70.48,PayPal,Completed
+ORD100294,CUST1129,2026-03-03,Home & Kitchen,Air Fryer,110.89,1,110.89,Credit Card,Completed
+ORD100295,CUST1052,2026-04-04,Clothing,Levi Jeans,76.14,2,152.28,PayPal,Completed
+ORD100296,CUST1171,2026-04-05,Clothing,Levi Jeans,133.55,1,133.55,Apple Pay,Returned
+ORD100297,CUST1217,2026-06-01,Home & Kitchen,Desk Lamp,22.89,2,45.78,PayPal,Completed
+ORD100298,CUST1159,2026-02-24,Books,Python Programming Guide,19.03,2,38.06,Credit Card,Completed
+ORD100299,CUST1197,2026-05-17,Clothing,Carhartt Jacket,139.06,1,139.06,Credit Card,Completed
+ORD100300,CUST1159,2026-09-04,Electronics,MacBook Air,1030.34,2,2060.68,Credit Card,Completed
+ORD100301,CUST1246,2026-05-11,Electronics,MacBook Air,952.19,4,3808.76,Credit Card,Completed
+ORD100302,CUST1067,2026-08-31,Electronics,Anker Power Bank,36.83,2,73.66,Credit Card,Completed
+ORD100303,CUST1182,2026-01-31,Home & Kitchen,Ninja Blender,115.61,2,231.22,Credit Card,Completed
+ORD100304,CUST1202,2026-02-09,Clothing,Crewneck Sweater,35.83,4,143.32,Credit Card,Completed
+ORD100305,CUST1183,2026-08-17,Clothing,Adidas Sneakers,98.62,1,98.62,Credit Card,Completed
+ORD100306,CUST1122,2026-02-05,Clothing,Nike Hoodie,53.98,1,53.98,PayPal,Completed
+ORD100307,CUST1144,2026-06-01,Electronics,iPhone 15,821.97,2,1643.94,Credit Card,Completed
+ORD100308,CUST1037,2026-08-11,Clothing,Levi Jeans,116.86,1,116.86,Credit Card,Completed
+ORD100309,CUST1023,2026-01-06,Electronics,Logitech Mouse,32.73,1,32.73,Credit Card,Completed
+ORD100310,CUST1068,2026-03-07,Clothing,Levi Jeans,89.34,1,89.34,Credit Card,Completed
+ORD100311,CUST1115,2026-07-31,Electronics,Logitech Mouse,24.68,2,49.36,PayPal,Completed
+ORD100312,CUST1097,2026-08-08,Books,Cookbook,25.05,1,25.05,Credit Card,Completed
+ORD100313,CUST1197,2026-03-16,Electronics,Logitech Mouse,22.85,3,68.55,Apple Pay,Returned
+ORD100314,CUST1213,2026-01-04,Books,Python Programming Guide,19.01,1,19.01,Apple Pay,Completed
+ORD100315,CUST1138,2026-03-20,Clothing,Levi Jeans,80.7,1,80.7,PayPal,Completed
+ORD100316,CUST1239,2026-05-14,Books,Python Programming Guide,23.82,1,23.82,PayPal,Completed
+ORD100317,CUST1143,2026-04-28,Home & Kitchen,Ninja Blender,119.94,1,119.94,Apple Pay,Completed
+ORD100318,CUST1096,2026-04-23,Home & Kitchen,Ninja Blender,90.0,1,90.0,PayPal,Completed
+ORD100319,CUST1200,2026-04-04,Home & Kitchen,Hydro Flask,54.57,3,163.71,Credit Card,Completed
+ORD100320,CUST1123,2026-09-05,Clothing,Levi Jeans,92.08,2,184.16,Credit Card,Completed
+ORD100321,CUST1186,2026-08-18,Clothing,Nike Hoodie,36.56,1,36.56,Apple Pay,Completed
+ORD100322,CUST1069,2026-06-28,Clothing,Levi Jeans,107.35,1,107.35,Credit Card,Completed
+ORD100323,CUST1207,2026-03-03,Clothing,Crewneck Sweater,58.5,2,117.0,Credit Card,Cancelled
+ORD100324,CUST1092,2026-07-04,Electronics,Anker Power Bank,38.61,3,115.83,PayPal,Completed
+ORD100325,CUST1002,2026-07-13,Clothing,Nike Hoodie,44.0,1,44.0,Apple Pay,Completed
+ORD100326,CUST1147,2026-03-20,Home & Kitchen,Air Fryer,112.59,1,112.59,Credit Card,Completed
+ORD100327,CUST1186,2026-07-22,Clothing,Levi Jeans,95.06,1,95.06,PayPal,Completed
+ORD100328,CUST1163,2026-05-16,Home & Kitchen,Desk Lamp,38.13,2,76.26,Credit Card,Completed
+ORD100329,CUST1146,2026-01-26,Home & Kitchen,Air Fryer,107.34,1,107.34,PayPal,Completed
+ORD100330,CUST1089,2026-06-28,Books,Sci-Fi Novel,18.65,1,18.65,Credit Card,Cancelled
+ORD100331,CUST1194,2026-06-22,Electronics,Logitech Mouse,33.49,1,33.49,Credit Card,Completed
+ORD100332,CUST1146,2026-02-13,Clothing,Nike Hoodie,52.17,2,104.34,Apple Pay,Completed
+ORD100333,CUST1147,2026-05-13,Clothing,Levi Jeans,115.16,1,115.16,Credit Card,Completed
+ORD100334,CUST1095,2026-03-11,Clothing,Carhartt Jacket,120.61,1,120.61,PayPal,Completed
+ORD100335,CUST1198,2026-06-03,Books,Python Programming Guide,15.08,1,15.08,Credit Card,Completed
+ORD100336,CUST1051,2026-04-28,Electronics,Anker Power Bank,34.25,1,34.25,Credit Card,Completed
+ORD100337,CUST1232,2026-03-09,Home & Kitchen,Memory Foam Pillow,39.56,1,39.56,PayPal,Completed
+ORD100338,CUST1160,2026-01-19,Clothing,Carhartt Jacket,80.36,2,160.72,Credit Card,Completed
+ORD100339,CUST1167,2026-07-31,Home & Kitchen,Desk Lamp,34.04,2,68.08,Credit Card,Cancelled
+ORD100340,CUST1127,2026-08-13,Home & Kitchen,Ninja Blender,94.2,2,188.4,Credit Card,Completed
+ORD100341,CUST1038,2026-01-20,Clothing,Adidas Sneakers,120.74,2,241.48,PayPal,Completed
+ORD100342,CUST1081,2026-04-23,Clothing,Crewneck Sweater,36.19,1,36.19,Apple Pay,Returned
+ORD100343,CUST1103,2026-05-20,Clothing,Crewneck Sweater,47.45,2,94.9,Crypto,Completed
+ORD100344,CUST1128,2026-02-16,Electronics,Logitech Mouse,37.31,1,37.31,Credit Card,Completed
+ORD100345,CUST1010,2026-01-01,Clothing,Adidas Sneakers,106.61,1,106.61,Credit Card,Returned
+ORD100346,CUST1219,2026-03-31,Electronics,AirPods Pro,120.74,4,482.96,Credit Card,Completed
+ORD100347,CUST1184,2026-05-22,Clothing,Adidas Sneakers,99.58,1,99.58,Apple Pay,Completed
+ORD100348,CUST1216,2026-03-05,Clothing,Carhartt Jacket,138.71,1,138.71,Credit Card,Completed
+ORD100349,CUST1177,2026-02-07,Clothing,Crewneck Sweater,45.4,1,45.4,Crypto,Completed
+ORD100350,CUST1150,2026-02-06,Home & Kitchen,Memory Foam Pillow,45.38,1,45.38,Credit Card,Completed
+ORD100351,CUST1158,2026-05-06,Electronics,AirPods Pro,86.95,1,86.95,Crypto,Completed
+ORD100352,CUST1221,2026-05-19,Home & Kitchen,Ninja Blender,124.78,2,249.56,Apple Pay,Completed
+ORD100353,CUST1041,2026-04-10,Clothing,Nike Hoodie,54.9,4,219.6,Apple Pay,Completed
+ORD100354,CUST1098,2026-03-18,Clothing,Crewneck Sweater,35.89,1,35.89,Credit Card,Completed
+ORD100355,CUST1006,2026-08-23,Books,Sci-Fi Novel,15.04,1,15.04,Credit Card,Completed
+ORD100356,CUST1143,2026-01-03,Electronics,Logitech Mouse,34.76,1,34.76,Credit Card,Returned
+ORD100357,CUST1089,2026-06-10,Clothing,Carhartt Jacket,147.96,2,295.92,Credit Card,Completed
+ORD100358,CUST1111,2026-05-14,Clothing,Carhartt Jacket,101.6,1,101.6,Credit Card,Returned
+ORD100359,CUST1248,2026-06-27,Clothing,Nike Hoodie,57.25,1,57.25,PayPal,Completed
+ORD100360,CUST1243,2026-09-05,Electronics,Logitech Mouse,20.85,1,20.85,Credit Card,Completed
+ORD100361,CUST1059,2026-01-10,Electronics,Anker Power Bank,21.15,1,21.15,PayPal,Completed
+ORD100362,CUST1112,2026-01-05,Books,Python Programming Guide,21.15,1,21.15,PayPal,Completed
+ORD100363,CUST1001,2026-05-31,Clothing,Crewneck Sweater,52.19,2,104.38,Credit Card,Completed
+ORD100364,CUST1128,2026-05-18,Clothing,Crewneck Sweater,44.47,1,44.47,Crypto,Completed
+ORD100365,CUST1047,2026-06-21,Clothing,Levi Jeans,71.54,1,71.54,Credit Card,Completed
+ORD100366,CUST1139,2026-05-10,Home & Kitchen,Desk Lamp,38.97,1,38.97,Credit Card,Completed
+ORD100367,CUST1196,2026-01-13,Electronics,MacBook Air,999.28,2,1998.56,Credit Card,Completed
+ORD100368,CUST1036,2026-06-17,Clothing,Nike Hoodie,57.64,1,57.64,Apple Pay,Completed
+ORD100369,CUST1159,2026-05-10,Clothing,Carhartt Jacket,70.78,1,70.78,Credit Card,Completed
+ORD100370,CUST1246,2026-03-25,Books,Financial Freedom Manual,26.15,1,26.15,Credit Card,Completed
+ORD100371,CUST1008,2026-03-06,Electronics,AirPods Pro,111.51,1,111.51,PayPal,Completed
+ORD100372,CUST1232,2026-03-04,Clothing,Nike Hoodie,42.79,2,85.58,Credit Card,Completed
+ORD100373,CUST1098,2026-04-11,Clothing,Carhartt Jacket,91.37,1,91.37,PayPal,Completed
+ORD100374,CUST1146,2026-03-14,Home & Kitchen,Ninja Blender,110.84,4,443.36,Apple Pay,Cancelled
+ORD100375,CUST1047,2026-01-17,Clothing,Levi Jeans,138.56,1,138.56,Crypto,Completed
+ORD100376,CUST1207,2026-01-09,Clothing,Crewneck Sweater,36.9,2,73.8,Credit Card,Completed
+ORD100377,CUST1130,2026-07-22,Home & Kitchen,Ninja Blender,94.8,1,94.8,Credit Card,Completed
+ORD100378,CUST1147,2026-05-23,Home & Kitchen,Memory Foam Pillow,43.54,2,87.08,Credit Card,Returned
+ORD100379,CUST1151,2026-06-01,Clothing,Levi Jeans,87.85,1,87.85,Credit Card,Completed
+ORD100380,CUST1053,2026-02-07,Books,Sci-Fi Novel,18.57,1,18.57,Credit Card,Cancelled
+ORD100381,CUST1119,2026-09-04,Clothing,Adidas Sneakers,123.03,2,246.06,Credit Card,Completed
+ORD100382,CUST1160,2026-06-12,Clothing,Crewneck Sweater,59.34,1,59.34,Crypto,Completed
+ORD100383,CUST1151,2026-04-04,Electronics,MacBook Air,952.35,1,952.35,Apple Pay,Returned
+ORD100384,CUST1115,2026-04-05,Books,Financial Freedom Manual,25.44,1,25.44,Credit Card,Completed
+ORD100385,CUST1074,2026-02-18,Electronics,iPhone 15,779.1,1,779.1,Credit Card,Completed
+ORD100386,CUST1112,2026-03-10,Electronics,Anker Power Bank,27.95,1,27.95,Credit Card,Completed
+ORD100387,CUST1199,2026-03-03,Electronics,Logitech Mouse,37.98,1,37.98,Credit Card,Returned
+ORD100388,CUST1163,2026-07-07,Home & Kitchen,Memory Foam Pillow,40.7,1,40.7,PayPal,Completed
+ORD100389,CUST1165,2026-08-24,Electronics,AirPods Pro,118.25,2,236.5,PayPal,Completed
+ORD100390,CUST1103,2026-06-27,Electronics,Anker Power Bank,34.94,1,34.94,Apple Pay,Completed
+ORD100391,CUST1083,2026-03-19,Electronics,Logitech Mouse,21.15,2,42.3,PayPal,Completed
+ORD100392,CUST1226,2026-04-27,Electronics,AirPods Pro,149.21,4,596.84,PayPal,Returned
+ORD100393,CUST1111,2026-04-30,Clothing,Crewneck Sweater,48.26,1,48.26,PayPal,Completed
+ORD100394,CUST1216,2026-07-22,Home & Kitchen,Desk Lamp,30.88,1,30.88,Credit Card,Completed
+ORD100395,CUST1098,2026-05-17,Clothing,Carhartt Jacket,132.14,1,132.14,PayPal,Returned
+ORD100396,CUST1152,2026-06-11,Clothing,Nike Hoodie,40.62,1,40.62,Credit Card,Completed
+ORD100397,CUST1092,2026-03-17,Home & Kitchen,Desk Lamp,32.38,3,97.14,Credit Card,Completed
+ORD100398,CUST1145,2026-08-15,Electronics,iPhone 15,812.23,1,812.23,Credit Card,Completed
+ORD100399,CUST1127,2026-02-04,Clothing,Levi Jeans,95.2,1,95.2,Credit Card,Completed
+ORD100400,CUST1109,2026-01-01,Books,Financial Freedom Manual,15.19,1,15.19,Apple Pay,Completed
+ORD100401,CUST1081,2026-02-09,Clothing,Crewneck Sweater,48.17,1,48.17,Credit Card,Completed
+ORD100402,CUST1193,2026-03-05,Electronics,Logitech Mouse,27.75,1,27.75,Credit Card,Completed
+ORD100403,CUST1053,2026-05-30,Clothing,Carhartt Jacket,121.42,1,121.42,Credit Card,Completed
+ORD100404,CUST1162,2026-03-01,Clothing,Nike Hoodie,43.62,4,174.48,PayPal,Completed
+ORD100405,CUST1207,2026-03-05,Clothing,Carhartt Jacket,96.98,1,96.98,Credit Card,Completed
+ORD100406,CUST1188,2026-04-03,Electronics,Logitech Mouse,30.77,1,30.77,Crypto,Completed
+ORD100407,CUST1168,2026-03-13,Electronics,iPhone 15,818.99,2,1637.98,Apple Pay,Completed
+ORD100408,CUST1227,2026-01-11,Electronics,AirPods Pro,81.77,1,81.77,PayPal,Cancelled
+ORD100409,CUST1160,2026-04-15,Books,Cookbook,20.45,3,61.35,PayPal,Completed
+ORD100410,CUST1067,2026-08-17,Home & Kitchen,Ninja Blender,107.9,4,431.6,Credit Card,Completed
+ORD100411,CUST1032,2026-01-14,Electronics,iPhone 15,845.78,2,1691.56,Credit Card,Completed
+ORD100412,CUST1141,2026-03-01,Electronics,MacBook Air,1026.1,2,2052.2,Apple Pay,Completed
+ORD100413,CUST1020,2026-01-30,Home & Kitchen,Memory Foam Pillow,58.72,1,58.72,Credit Card,Completed
+ORD100414,CUST1047,2026-02-04,Electronics,Anker Power Bank,32.41,3,97.23,Credit Card,Completed
+ORD100415,CUST1147,2026-08-01,Electronics,AirPods Pro,113.74,1,113.74,PayPal,Completed
+ORD100416,CUST1247,2026-06-14,Books,Cookbook,19.87,2,39.74,Credit Card,Cancelled
+ORD100417,CUST1127,2026-01-05,Electronics,MacBook Air,966.56,3,2899.68,Apple Pay,Completed
+ORD100418,CUST1135,2026-03-24,Home & Kitchen,Memory Foam Pillow,47.02,4,188.08,Credit Card,Completed
+ORD100419,CUST1134,2026-05-03,Books,Cookbook,13.74,2,27.48,Apple Pay,Completed
+ORD100420,CUST1194,2026-03-19,Clothing,Nike Hoodie,38.41,1,38.41,PayPal,Completed
+ORD100421,CUST1144,2026-06-03,Electronics,MacBook Air,1029.3,3,3087.9,Apple Pay,Completed
+ORD100422,CUST1127,2026-03-03,Electronics,MacBook Air,989.18,1,989.18,Credit Card,Completed
+ORD100423,CUST1032,2026-05-12,Books,Biography,27.4,3,82.2,PayPal,Completed
+ORD100424,CUST1175,2026-03-30,Books,Biography,27.26,1,27.26,Apple Pay,Completed
+ORD100425,CUST1203,2026-08-25,Home & Kitchen,Air Fryer,129.24,1,129.24,Credit Card,Completed
+ORD100426,CUST1186,2026-02-11,Electronics,iPhone 15,771.9,1,771.9,Credit Card,Completed
+ORD100427,CUST1114,2026-03-30,Home & Kitchen,Memory Foam Pillow,45.91,1,45.91,PayPal,Completed
+ORD100428,CUST1213,2026-05-26,Books,Financial Freedom Manual,15.63,2,31.26,PayPal,Completed
+ORD100429,CUST1118,2026-02-09,Home & Kitchen,Hydro Flask,59.52,1,59.52,Credit Card,Completed
+ORD100430,CUST1021,2026-03-13,Books,Biography,25.43,1,25.43,Apple Pay,Completed
+ORD100431,CUST1237,2026-02-08,Books,Cookbook,26.61,1,26.61,Credit Card,Completed
+ORD100432,CUST1157,2026-04-14,Home & Kitchen,Hydro Flask,52.45,2,104.9,Credit Card,Returned
+ORD100433,CUST1037,2026-01-14,Clothing,Adidas Sneakers,111.71,1,111.71,Apple Pay,Completed
+ORD100434,CUST1229,2026-02-01,Clothing,Levi Jeans,147.35,1,147.35,PayPal,Completed
+ORD100435,CUST1108,2026-06-28,Electronics,Anker Power Bank,37.07,1,37.07,Apple Pay,Completed
+ORD100436,CUST1050,2026-05-05,Home & Kitchen,Desk Lamp,24.94,1,24.94,Crypto,Completed
+ORD100437,CUST1181,2026-06-15,Clothing,Nike Hoodie,46.45,1,46.45,Credit Card,Completed
+ORD100438,CUST1007,2026-04-07,Books,Sci-Fi Novel,15.43,1,15.43,Credit Card,Returned
+ORD100439,CUST1026,2026-01-23,Books,Python Programming Guide,24.56,1,24.56,Credit Card,Completed
+ORD100440,CUST1026,2026-03-04,Home & Kitchen,Desk Lamp,20.23,3,60.69,PayPal,Cancelled
+ORD100441,CUST1225,2026-05-23,Electronics,AirPods Pro,132.74,2,265.48,Apple Pay,Returned
+ORD100442,CUST1020,2026-08-13,Electronics,Logitech Mouse,38.51,1,38.51,Credit Card,Completed
+ORD100443,CUST1029,2026-06-02,Electronics,AirPods Pro,134.37,4,537.48,Credit Card,Completed
+ORD100444,CUST1096,2026-05-25,Home & Kitchen,Memory Foam Pillow,40.54,1,40.54,Credit Card,Completed
+ORD100445,CUST1027,2026-08-13,Home & Kitchen,Desk Lamp,23.55,1,23.55,Apple Pay,Completed
+ORD100446,CUST1110,2026-08-27,Books,Financial Freedom Manual,16.8,1,16.8,Credit Card,Returned
+ORD100447,CUST1191,2026-09-04,Clothing,Adidas Sneakers,72.32,1,72.32,Credit Card,Completed
+ORD100448,CUST1224,2026-07-13,Books,Financial Freedom Manual,26.41,1,26.41,PayPal,Completed
+ORD100449,CUST1196,2026-07-25,Books,Cookbook,14.77,1,14.77,Apple Pay,Completed
+ORD100450,CUST1060,2026-02-22,Clothing,Nike Hoodie,38.84,1,38.84,PayPal,Returned
+ORD100451,CUST1047,2026-04-14,Books,Financial Freedom Manual,27.31,2,54.62,PayPal,Returned
+ORD100452,CUST1146,2026-04-14,Clothing,Nike Hoodie,36.11,1,36.11,Credit Card,Completed
+ORD100453,CUST1003,2026-06-28,Electronics,Anker Power Bank,29.62,1,29.62,PayPal,Completed
+ORD100454,CUST1034,2026-02-08,Home & Kitchen,Air Fryer,105.69,1,105.69,PayPal,Completed
+ORD100455,CUST1191,2026-06-28,Clothing,Crewneck Sweater,35.81,1,35.81,Crypto,Completed
+ORD100456,CUST1048,2026-07-17,Home & Kitchen,Air Fryer,128.03,1,128.03,Credit Card,Cancelled
+ORD100457,CUST1016,2026-05-14,Home & Kitchen,Air Fryer,101.01,1,101.01,Credit Card,Completed
+ORD100458,CUST1171,2026-03-08,Clothing,Nike Hoodie,54.68,2,109.36,Credit Card,Completed
+ORD100459,CUST1219,2026-05-15,Clothing,Carhartt Jacket,100.9,1,100.9,Credit Card,Completed
+ORD100460,CUST1157,2026-06-28,Clothing,Crewneck Sweater,43.95,1,43.95,Apple Pay,Completed
+ORD100461,CUST1220,2026-07-19,Clothing,Carhartt Jacket,137.77,1,137.77,Credit Card,Completed
+ORD100462,CUST1045,2026-02-11,Clothing,Nike Hoodie,39.78,1,39.78,Credit Card,Completed
+ORD100463,CUST1116,2026-07-11,Clothing,Crewneck Sweater,59.35,1,59.35,Credit Card,Completed
+ORD100464,CUST1005,2026-09-01,Electronics,AirPods Pro,137.18,1,137.18,Credit Card,Completed
+ORD100465,CUST1098,2026-01-15,Clothing,Nike Hoodie,35.96,1,35.96,Credit Card,Completed
+ORD100466,CUST1123,2026-04-21,Electronics,AirPods Pro,146.5,1,146.5,Credit Card,Completed
+ORD100467,CUST1232,2026-06-06,Home & Kitchen,Hydro Flask,51.98,1,51.98,Credit Card,Completed
+ORD100468,CUST1036,2026-02-02,Home & Kitchen,Ninja Blender,128.01,1,128.01,PayPal,Completed
+ORD100469,CUST1023,2026-09-01,Clothing,Crewneck Sweater,52.97,1,52.97,PayPal,Completed
+ORD100470,CUST1092,2026-08-10,Clothing,Adidas Sneakers,104.19,1,104.19,Credit Card,Completed
+ORD100471,CUST1240,2026-08-19,Books,Biography,24.37,1,24.37,Crypto,Completed
+ORD100472,CUST1045,2026-06-04,Books,Financial Freedom Manual,15.15,1,15.15,PayPal,Completed
+ORD100473,CUST1180,2026-06-13,Books,Python Programming Guide,26.38,1,26.38,Apple Pay,Cancelled
+ORD100474,CUST1094,2026-06-06,Books,Cookbook,24.44,1,24.44,Credit Card,Completed
+ORD100475,CUST1098,2026-02-07,Electronics,AirPods Pro,141.1,1,141.1,Credit Card,Cancelled
+ORD100476,CUST1187,2026-07-04,Electronics,AirPods Pro,86.36,1,86.36,Credit Card,Completed
+ORD100477,CUST1224,2026-04-07,Clothing,Crewneck Sweater,41.37,2,82.74,Credit Card,Completed
+ORD100478,CUST1115,2026-08-17,Electronics,MacBook Air,1009.37,1,1009.37,Credit Card,Completed
+ORD100479,CUST1190,2026-06-04,Clothing,Carhartt Jacket,120.87,2,241.74,Apple Pay,Completed
+ORD100480,CUST1212,2026-07-02,Clothing,Adidas Sneakers,75.51,1,75.51,Credit Card,Completed
+ORD100481,CUST1159,2026-02-02,Clothing,Adidas Sneakers,110.54,1,110.54,Credit Card,Completed
+ORD100482,CUST1214,2026-07-15,Home & Kitchen,Air Fryer,93.79,1,93.79,PayPal,Completed
+ORD100483,CUST1160,2026-03-27,Home & Kitchen,Air Fryer,123.42,1,123.42,Credit Card,Completed
+ORD100484,CUST1066,2026-03-07,Clothing,Crewneck Sweater,53.16,1,53.16,PayPal,Completed
+ORD100485,CUST1127,2026-01-10,Books,Cookbook,24.56,1,24.56,PayPal,Completed
+ORD100486,CUST1017,2026-01-05,Clothing,Levi Jeans,135.97,1,135.97,Apple Pay,Completed
+ORD100487,CUST1024,2026-05-03,Books,Python Programming Guide,26.13,1,26.13,Crypto,Completed
+ORD100488,CUST1233,2026-03-15,Electronics,Anker Power Bank,25.64,2,51.28,Credit Card,Completed
+ORD100489,CUST1222,2026-04-07,Books,Cookbook,13.55,3,40.65,PayPal,Completed
+ORD100490,CUST1053,2026-04-28,Home & Kitchen,Memory Foam Pillow,54.13,1,54.13,Apple Pay,Completed
+ORD100491,CUST1057,2026-02-07,Clothing,Nike Hoodie,49.75,1,49.75,Apple Pay,Completed
+ORD100492,CUST1066,2026-05-21,Electronics,Logitech Mouse,30.44,1,30.44,Credit Card,Returned
+ORD100493,CUST1103,2026-06-08,Clothing,Crewneck Sweater,53.07,1,53.07,Apple Pay,Completed
+ORD100494,CUST1173,2026-02-16,Electronics,Anker Power Bank,26.07,1,26.07,Credit Card,Completed
+ORD100495,CUST1023,2026-08-16,Electronics,MacBook Air,1038.26,4,4153.04,Apple Pay,Completed
+ORD100496,CUST1113,2026-04-19,Home & Kitchen,Desk Lamp,39.33,1,39.33,Credit Card,Completed
+ORD100497,CUST1031,2026-08-04,Clothing,Adidas Sneakers,123.03,1,123.03,PayPal,Completed
+ORD100498,CUST1174,2026-06-29,Home & Kitchen,Ninja Blender,123.93,1,123.93,Apple Pay,Completed
+ORD100499,CUST1085,2026-07-03,Books,Python Programming Guide,17.53,2,35.06,Credit Card,Completed
+ORD100500,CUST1150,2026-01-15,Clothing,Crewneck Sweater,52.81,1,52.81,Credit Card,Completed
+ORD100501,CUST1193,2026-06-06,Clothing,Adidas Sneakers,91.71,1,91.71,Credit Card,Completed
+ORD100502,CUST1126,2026-05-16,Electronics,iPhone 15,787.08,4,3148.32,Crypto,Completed
+ORD100503,CUST1154,2026-01-05,Home & Kitchen,Air Fryer,129.97,1,129.97,Apple Pay,Completed
+ORD100504,CUST1233,2026-06-06,Clothing,Carhartt Jacket,148.78,2,297.56,PayPal,Completed
+ORD100505,CUST1129,2026-02-16,Books,Cookbook,21.13,1,21.13,PayPal,Completed
+ORD100506,CUST1217,2026-03-09,Books,Sci-Fi Novel,18.7,2,37.4,Apple Pay,Completed
+ORD100507,CUST1016,2026-03-17,Clothing,Levi Jeans,126.74,1,126.74,Credit Card,Completed
+ORD100508,CUST1103,2026-06-22,Electronics,MacBook Air,976.89,1,976.89,Credit Card,Completed
+ORD100509,CUST1160,2026-05-10,Books,Sci-Fi Novel,17.02,2,34.04,PayPal,Completed
+ORD100510,CUST1136,2026-06-04,Home & Kitchen,Hydro Flask,47.04,1,47.04,Credit Card,Completed
+ORD100511,CUST1042,2026-04-05,Electronics,iPhone 15,810.15,1,810.15,Credit Card,Completed
+ORD100512,CUST1245,2026-04-25,Electronics,Logitech Mouse,32.63,1,32.63,Credit Card,Cancelled
+ORD100513,CUST1175,2026-08-31,Home & Kitchen,Air Fryer,120.35,1,120.35,Credit Card,Completed
+ORD100514,CUST1038,2026-06-13,Electronics,iPhone 15,801.38,1,801.38,Apple Pay,Completed
+ORD100515,CUST1220,2026-02-05,Books,Sci-Fi Novel,15.57,1,15.57,Credit Card,Completed
+ORD100516,CUST1169,2026-01-26,Clothing,Nike Hoodie,58.31,1,58.31,PayPal,Completed
+ORD100517,CUST1246,2026-02-12,Electronics,AirPods Pro,125.77,1,125.77,Credit Card,Completed
+ORD100518,CUST1025,2026-01-27,Books,Financial Freedom Manual,25.04,1,25.04,Credit Card,Completed
+ORD100519,CUST1098,2026-03-10,Clothing,Levi Jeans,128.31,1,128.31,Credit Card,Completed
+ORD100520,CUST1049,2026-05-28,Clothing,Nike Hoodie,41.84,2,83.68,Apple Pay,Returned
+ORD100521,CUST1152,2026-01-11,Electronics,MacBook Air,955.18,3,2865.54,PayPal,Completed
+ORD100522,CUST1151,2026-03-15,Electronics,iPhone 15,784.52,2,1569.04,Apple Pay,Completed
+ORD100523,CUST1012,2026-04-14,Home & Kitchen,Desk Lamp,39.56,1,39.56,PayPal,Completed
+ORD100524,CUST1059,2026-02-07,Clothing,Adidas Sneakers,79.5,1,79.5,PayPal,Completed
+ORD100525,CUST1249,2026-05-14,Clothing,Nike Hoodie,53.17,1,53.17,PayPal,Completed
+ORD100526,CUST1134,2026-07-19,Home & Kitchen,Memory Foam Pillow,58.67,1,58.67,Apple Pay,Completed
+ORD100527,CUST1056,2026-01-23,Home & Kitchen,Ninja Blender,102.47,1,102.47,Apple Pay,Completed
+ORD100528,CUST1035,2026-02-16,Electronics,AirPods Pro,83.03,1,83.03,Credit Card,Completed
+ORD100529,CUST1172,2026-03-31,Clothing,Carhartt Jacket,100.74,1,100.74,PayPal,Completed
+ORD100530,CUST1019,2026-02-15,Books,Financial Freedom Manual,24.72,3,74.16,PayPal,Completed
+ORD100531,CUST1064,2026-04-17,Home & Kitchen,Air Fryer,90.45,1,90.45,PayPal,Cancelled
+ORD100532,CUST1007,2026-05-20,Clothing,Levi Jeans,119.26,1,119.26,Credit Card,Completed
+ORD100533,CUST1237,2026-08-06,Electronics,AirPods Pro,105.0,1,105.0,Apple Pay,Completed
+ORD100534,CUST1143,2026-05-21,Clothing,Carhartt Jacket,114.71,1,114.71,Crypto,Completed
+ORD100535,CUST1141,2026-04-14,Home & Kitchen,Memory Foam Pillow,55.42,2,110.84,Credit Card,Completed
+ORD100536,CUST1203,2026-07-09,Books,Sci-Fi Novel,21.0,1,21.0,Apple Pay,Completed
+ORD100537,CUST1114,2026-07-29,Home & Kitchen,Air Fryer,107.17,1,107.17,Credit Card,Completed
+ORD100538,CUST1214,2026-08-05,Books,Cookbook,23.77,1,23.77,Credit Card,Cancelled
+ORD100539,CUST1142,2026-08-13,Home & Kitchen,Memory Foam Pillow,59.03,1,59.03,Credit Card,Returned
+ORD100540,CUST1091,2026-04-21,Electronics,MacBook Air,1045.24,1,1045.24,Credit Card,Completed
+ORD100541,CUST1097,2026-04-14,Clothing,Adidas Sneakers,140.34,2,280.68,Apple Pay,Completed
+ORD100542,CUST1065,2026-03-01,Electronics,iPhone 15,765.72,2,1531.44,Credit Card,Completed
+ORD100543,CUST1031,2026-06-20,Electronics,Logitech Mouse,32.49,2,64.98,Credit Card,Returned
+ORD100544,CUST1214,2026-07-23,Books,Python Programming Guide,26.06,1,26.06,Credit Card,Completed
+ORD100545,CUST1190,2026-08-24,Clothing,Adidas Sneakers,110.11,2,220.22,Credit Card,Completed
+ORD100546,CUST1085,2026-04-10,Clothing,Adidas Sneakers,138.04,1,138.04,Credit Card,Completed
+ORD100547,CUST1050,2026-08-28,Electronics,MacBook Air,1012.79,1,1012.79,PayPal,Completed
+ORD100548,CUST1152,2026-03-09,Clothing,Carhartt Jacket,123.91,1,123.91,Credit Card,Completed
+ORD100549,CUST1185,2026-05-13,Electronics,Logitech Mouse,23.73,1,23.73,Apple Pay,Completed
+ORD100550,CUST1062,2026-04-30,Electronics,Logitech Mouse,25.74,1,25.74,Apple Pay,Completed
+ORD100551,CUST1189,2026-02-06,Home & Kitchen,Air Fryer,97.65,2,195.3,Credit Card,Returned
+ORD100552,CUST1124,2026-03-13,Electronics,Logitech Mouse,32.42,1,32.42,Apple Pay,Completed
+ORD100553,CUST1149,2026-05-07,Home & Kitchen,Ninja Blender,107.21,1,107.21,Credit Card,Completed
+ORD100554,CUST1057,2026-04-16,Electronics,Logitech Mouse,28.08,1,28.08,Credit Card,Completed
+ORD100555,CUST1057,2026-08-29,Electronics,MacBook Air,985.58,2,1971.16,Credit Card,Completed
+ORD100556,CUST1085,2026-04-02,Electronics,AirPods Pro,104.61,3,313.83,Credit Card,Completed
+ORD100557,CUST1048,2026-01-31,Clothing,Adidas Sneakers,124.19,2,248.38,PayPal,Completed
+ORD100558,CUST1179,2026-05-02,Home & Kitchen,Air Fryer,92.25,1,92.25,Apple Pay,Completed
+ORD100559,CUST1169,2026-05-17,Clothing,Carhartt Jacket,148.55,1,148.55,Credit Card,Returned
+ORD100560,CUST1069,2026-09-03,Clothing,Carhartt Jacket,123.71,1,123.71,PayPal,Completed
+ORD100561,CUST1014,2026-02-20,Home & Kitchen,Air Fryer,121.4,1,121.4,Credit Card,Completed
+ORD100562,CUST1053,2026-01-29,Electronics,Anker Power Bank,22.02,1,22.02,Apple Pay,Completed
+ORD100563,CUST1234,2026-07-25,Clothing,Crewneck Sweater,43.12,1,43.12,Credit Card,Completed
+ORD100564,CUST1187,2026-02-09,Books,Python Programming Guide,26.71,1,26.71,Credit Card,Completed
+ORD100565,CUST1100,2026-02-10,Home & Kitchen,Hydro Flask,46.24,4,184.96,Credit Card,Returned
+ORD100566,CUST1224,2026-08-02,Clothing,Levi Jeans,84.34,1,84.34,Credit Card,Completed
+ORD100567,CUST1007,2026-01-11,Books,Python Programming Guide,14.69,1,14.69,PayPal,Completed
+ORD100568,CUST1052,2026-05-31,Home & Kitchen,Ninja Blender,119.51,1,119.51,Apple Pay,Cancelled
+ORD100569,CUST1059,2026-01-01,Electronics,AirPods Pro,116.56,3,349.68,Credit Card,Completed
+ORD100570,CUST1235,2026-02-15,Home & Kitchen,Ninja Blender,103.85,2,207.7,PayPal,Completed
+ORD100571,CUST1107,2026-04-11,Clothing,Carhartt Jacket,75.91,2,151.82,PayPal,Completed
+ORD100572,CUST1004,2026-05-29,Clothing,Adidas Sneakers,86.42,3,259.26,Apple Pay,Completed
+ORD100573,CUST1102,2026-03-31,Clothing,Nike Hoodie,53.49,1,53.49,Credit Card,Completed
+ORD100574,CUST1195,2026-04-20,Clothing,Levi Jeans,92.99,1,92.99,Credit Card,Completed
+ORD100575,CUST1005,2026-06-13,Home & Kitchen,Hydro Flask,52.23,1,52.23,Apple Pay,Completed
+ORD100576,CUST1108,2026-07-01,Clothing,Levi Jeans,118.28,1,118.28,PayPal,Completed
+ORD100577,CUST1223,2026-08-03,Books,Financial Freedom Manual,14.12,1,14.12,Credit Card,Completed
+ORD100578,CUST1115,2026-02-26,Home & Kitchen,Desk Lamp,25.94,1,25.94,Credit Card,Completed
+ORD100579,CUST1093,2026-01-01,Electronics,Logitech Mouse,31.97,3,95.91,Credit Card,Completed
+ORD100580,CUST1046,2026-03-04,Home & Kitchen,Desk Lamp,21.83,4,87.32,PayPal,Returned
+ORD100581,CUST1098,2026-07-01,Electronics,AirPods Pro,91.38,2,182.76,PayPal,Completed
+ORD100582,CUST1054,2026-02-24,Clothing,Levi Jeans,126.29,2,252.58,Credit Card,Completed
+ORD100583,CUST1167,2026-04-25,Home & Kitchen,Air Fryer,117.03,1,117.03,PayPal,Completed
+ORD100584,CUST1051,2026-06-17,Electronics,iPhone 15,817.2,1,817.2,PayPal,Completed
+ORD100585,CUST1143,2026-05-23,Clothing,Nike Hoodie,48.13,1,48.13,PayPal,Cancelled
+ORD100586,CUST1012,2026-05-29,Electronics,MacBook Air,1009.76,1,1009.76,PayPal,Completed
+ORD100587,CUST1113,2026-06-24,Electronics,Anker Power Bank,23.47,2,46.94,Apple Pay,Completed
+ORD100588,CUST1123,2026-07-20,Clothing,Adidas Sneakers,78.46,1,78.46,Credit Card,Completed
+ORD100589,CUST1105,2026-02-22,Clothing,Levi Jeans,118.97,3,356.91,Apple Pay,Completed
+ORD100590,CUST1157,2026-05-17,Books,Financial Freedom Manual,24.04,1,24.04,Credit Card,Completed
+ORD100591,CUST1146,2026-07-21,Clothing,Crewneck Sweater,40.06,1,40.06,Credit Card,Completed
+ORD100592,CUST1144,2026-06-29,Clothing,Carhartt Jacket,126.08,1,126.08,Credit Card,Completed
+ORD100593,CUST1119,2026-02-26,Clothing,Nike Hoodie,36.25,1,36.25,Credit Card,Completed
+ORD100594,CUST1062,2026-04-27,Electronics,iPhone 15,751.53,1,751.53,Credit Card,Completed
+ORD100595,CUST1018,2026-06-03,Books,Biography,27.03,1,27.03,Credit Card,Completed
+ORD100596,CUST1091,2026-06-18,Home & Kitchen,Ninja Blender,108.0,2,216.0,Apple Pay,Completed
+ORD100597,CUST1057,2026-02-04,Home & Kitchen,Ninja Blender,98.81,1,98.81,Credit Card,Returned
+ORD100598,CUST1182,2026-03-04,Electronics,iPhone 15,833.97,1,833.97,PayPal,Completed
+ORD100599,CUST1089,2026-09-01,Clothing,Levi Jeans,129.14,1,129.14,Credit Card,Completed
+ORD100600,CUST1228,2026-01-25,Clothing,Nike Hoodie,47.44,1,47.44,Apple Pay,Completed
+ORD100601,CUST1217,2026-03-31,Books,Financial Freedom Manual,19.49,4,77.96,PayPal,Completed
+ORD100602,CUST1116,2026-03-16,Electronics,MacBook Air,1039.0,1,1039.0,Credit Card,Returned
+ORD100603,CUST1061,2026-02-07,Clothing,Crewneck Sweater,57.85,3,173.55,Apple Pay,Completed
+ORD100604,CUST1022,2026-05-10,Books,Biography,25.91,1,25.91,PayPal,Completed
+ORD100605,CUST1126,2026-05-15,Clothing,Carhartt Jacket,104.74,3,314.22,Apple Pay,Completed
+ORD100606,CUST1136,2026-07-29,Clothing,Nike Hoodie,45.95,1,45.95,PayPal,Completed
+ORD100607,CUST1139,2026-08-07,Electronics,MacBook Air,1008.94,1,1008.94,PayPal,Completed
+ORD100608,CUST1244,2026-06-11,Books,Sci-Fi Novel,21.19,1,21.19,Apple Pay,Completed
+ORD100609,CUST1128,2026-04-01,Electronics,iPhone 15,774.19,1,774.19,Credit Card,Completed
+ORD100610,CUST1057,2026-01-17,Home & Kitchen,Desk Lamp,24.07,1,24.07,Credit Card,Completed
+ORD100611,CUST1121,2026-05-08,Home & Kitchen,Ninja Blender,122.72,1,122.72,Apple Pay,Completed
+ORD100612,CUST1000,2026-06-20,Electronics,Logitech Mouse,20.26,1,20.26,Credit Card,Completed
+ORD100613,CUST1238,2026-07-06,Home & Kitchen,Ninja Blender,98.57,1,98.57,Credit Card,Completed
+ORD100614,CUST1033,2026-04-18,Electronics,Anker Power Bank,21.53,1,21.53,Credit Card,Completed
+ORD100615,CUST1095,2026-06-28,Electronics,AirPods Pro,74.99,2,149.98,Credit Card,Completed
+ORD100616,CUST1125,2026-07-01,Home & Kitchen,Memory Foam Pillow,45.61,1,45.61,Crypto,Completed
+ORD100617,CUST1117,2026-06-01,Books,Python Programming Guide,21.95,1,21.95,Credit Card,Completed
+ORD100618,CUST1047,2026-01-25,Home & Kitchen,Hydro Flask,44.3,1,44.3,Credit Card,Completed
+ORD100619,CUST1088,2026-07-18,Clothing,Levi Jeans,140.79,2,281.58,PayPal,Cancelled
+ORD100620,CUST1231,2026-06-29,Electronics,MacBook Air,999.34,1,999.34,Apple Pay,Completed
+ORD100621,CUST1236,2026-07-17,Electronics,Anker Power Bank,35.73,1,35.73,Credit Card,Completed
+ORD100622,CUST1116,2026-09-02,Electronics,MacBook Air,1011.67,3,3035.01,Credit Card,Completed
+ORD100623,CUST1128,2026-03-29,Electronics,iPhone 15,775.33,2,1550.66,Apple Pay,Completed
+ORD100624,CUST1015,2026-06-10,Clothing,Adidas Sneakers,111.71,1,111.71,PayPal,Completed
+ORD100625,CUST1188,2026-06-26,Clothing,Adidas Sneakers,131.65,1,131.65,Credit Card,Completed
+ORD100626,CUST1230,2026-01-29,Clothing,Nike Hoodie,58.01,2,116.02,Credit Card,Completed
+ORD100627,CUST1191,2026-03-04,Electronics,MacBook Air,1003.82,1,1003.82,Credit Card,Cancelled
+ORD100628,CUST1190,2026-08-23,Clothing,Nike Hoodie,56.62,1,56.62,Credit Card,Completed
+ORD100629,CUST1068,2026-05-30,Books,Sci-Fi Novel,26.42,1,26.42,Credit Card,Completed
+ORD100630,CUST1021,2026-06-03,Electronics,iPhone 15,753.49,2,1506.98,Apple Pay,Completed
+ORD100631,CUST1092,2026-06-05,Books,Financial Freedom Manual,19.81,1,19.81,Credit Card,Completed
+ORD100632,CUST1246,2026-04-24,Books,Cookbook,26.1,2,52.2,PayPal,Completed
+ORD100633,CUST1194,2026-08-01,Electronics,MacBook Air,1020.54,1,1020.54,Credit Card,Completed
+ORD100634,CUST1075,2026-02-18,Home & Kitchen,Hydro Flask,47.48,1,47.48,Apple Pay,Completed
+ORD100635,CUST1153,2026-07-18,Clothing,Levi Jeans,121.94,1,121.94,PayPal,Completed
+ORD100636,CUST1143,2026-03-22,Clothing,Crewneck Sweater,54.59,1,54.59,Credit Card,Completed
+ORD100637,CUST1178,2026-03-25,Clothing,Levi Jeans,135.97,3,407.91,PayPal,Completed
+ORD100638,CUST1228,2026-04-15,Clothing,Adidas Sneakers,117.9,2,235.8,Credit Card,Completed
+ORD100639,CUST1085,2026-06-26,Clothing,Crewneck Sweater,42.52,1,42.52,Apple Pay,Completed
+ORD100640,CUST1184,2026-05-28,Clothing,Crewneck Sweater,46.73,1,46.73,Apple Pay,Completed
+ORD100641,CUST1028,2026-04-28,Home & Kitchen,Desk Lamp,24.19,1,24.19,Credit Card,Cancelled
+ORD100642,CUST1205,2026-03-27,Home & Kitchen,Ninja Blender,120.57,1,120.57,Credit Card,Completed
+ORD100643,CUST1219,2026-08-08,Clothing,Levi Jeans,102.69,1,102.69,Credit Card,Returned
+ORD100644,CUST1068,2026-03-04,Home & Kitchen,Memory Foam Pillow,39.0,1,39.0,PayPal,Returned
+ORD100645,CUST1046,2026-07-08,Electronics,Anker Power Bank,35.72,1,35.72,Credit Card,Completed
+ORD100646,CUST1240,2026-04-14,Electronics,Logitech Mouse,33.27,2,66.54,Credit Card,Completed
+ORD100647,CUST1093,2026-02-18,Books,Financial Freedom Manual,25.2,4,100.8,Credit Card,Completed
+ORD100648,CUST1237,2026-03-12,Clothing,Carhartt Jacket,105.69,1,105.69,Credit Card,Completed
+ORD100649,CUST1189,2026-01-01,Electronics,Logitech Mouse,25.77,2,51.54,PayPal,Completed
+ORD100650,CUST1243,2026-08-12,Electronics,Logitech Mouse,38.48,1,38.48,Credit Card,Returned
+ORD100651,CUST1196,2026-05-21,Electronics,MacBook Air,1001.49,1,1001.49,PayPal,Completed
+ORD100652,CUST1203,2026-08-10,Books,Sci-Fi Novel,18.34,1,18.34,Credit Card,Completed
+ORD100653,CUST1143,2026-08-03,Clothing,Levi Jeans,136.27,1,136.27,Credit Card,Completed
+ORD100654,CUST1217,2026-06-28,Books,Sci-Fi Novel,25.41,1,25.41,PayPal,Completed
+ORD100655,CUST1217,2026-05-03,Clothing,Crewneck Sweater,43.16,1,43.16,Crypto,Completed
+ORD100656,CUST1175,2026-07-03,Clothing,Levi Jeans,99.87,2,199.74,Apple Pay,Completed
+ORD100657,CUST1084,2026-07-30,Clothing,Levi Jeans,145.28,2,290.56,Credit Card,Completed
+ORD100658,CUST1038,2026-03-03,Home & Kitchen,Ninja Blender,102.73,1,102.73,Credit Card,Completed
+ORD100659,CUST1099,2026-02-01,Electronics,Anker Power Bank,27.84,3,83.52,Apple Pay,Completed
+ORD100660,CUST1032,2026-06-07,Books,Financial Freedom Manual,25.42,1,25.42,Credit Card,Completed
+ORD100661,CUST1221,2026-01-29,Books,Sci-Fi Novel,25.87,1,25.87,Credit Card,Completed
+ORD100662,CUST1100,2026-02-18,Clothing,Levi Jeans,140.74,1,140.74,Apple Pay,Completed
+ORD100663,CUST1022,2026-06-22,Books,Biography,25.87,1,25.87,Apple Pay,Completed
+ORD100664,CUST1249,2026-08-09,Books,Financial Freedom Manual,19.21,1,19.21,Crypto,Completed
+ORD100665,CUST1009,2026-01-30,Home & Kitchen,Ninja Blender,96.4,1,96.4,Apple Pay,Cancelled
+ORD100666,CUST1245,2026-05-24,Electronics,Anker Power Bank,28.21,1,28.21,Apple Pay,Completed
+ORD100667,CUST1068,2026-06-17,Clothing,Carhartt Jacket,88.36,2,176.72,Credit Card,Completed
+ORD100668,CUST1099,2026-01-19,Clothing,Crewneck Sweater,39.12,1,39.12,Credit Card,Completed
+ORD100669,CUST1033,2026-01-18,Electronics,Anker Power Bank,34.36,1,34.36,PayPal,Completed
+ORD100670,CUST1179,2026-01-01,Electronics,Logitech Mouse,30.29,1,30.29,PayPal,Completed
+ORD100671,CUST1222,2026-03-19,Home & Kitchen,Ninja Blender,103.8,1,103.8,Credit Card,Completed
+ORD100672,CUST1137,2026-04-25,Electronics,MacBook Air,1023.23,1,1023.23,Credit Card,Completed
+ORD100673,CUST1249,2026-06-24,Clothing,Adidas Sneakers,89.31,2,178.62,Credit Card,Completed
+ORD100674,CUST1146,2026-08-30,Books,Python Programming Guide,22.51,1,22.51,PayPal,Completed
+ORD100675,CUST1185,2026-07-13,Books,Financial Freedom Manual,16.33,1,16.33,Credit Card,Completed
+ORD100676,CUST1095,2026-09-03,Electronics,iPhone 15,771.18,1,771.18,Credit Card,Completed
+ORD100677,CUST1000,2026-08-08,Books,Financial Freedom Manual,16.67,1,16.67,PayPal,Returned
+ORD100678,CUST1247,2026-04-23,Electronics,MacBook Air,983.56,1,983.56,PayPal,Completed
+ORD100679,CUST1068,2026-04-24,Electronics,Logitech Mouse,31.43,1,31.43,Credit Card,Completed
+ORD100680,CUST1236,2026-08-10,Home & Kitchen,Air Fryer,112.27,3,336.81,PayPal,Completed
+ORD100681,CUST1003,2026-06-15,Clothing,Nike Hoodie,45.71,1,45.71,PayPal,Cancelled
+ORD100682,CUST1015,2026-06-28,Clothing,Adidas Sneakers,124.31,1,124.31,Credit Card,Completed
+ORD100683,CUST1023,2026-03-04,Clothing,Levi Jeans,83.73,1,83.73,Credit Card,Cancelled
+ORD100684,CUST1079,2026-05-12,Electronics,AirPods Pro,96.19,1,96.19,Credit Card,Completed
+ORD100685,CUST1246,2026-05-09,Electronics,Anker Power Bank,37.4,1,37.4,Credit Card,Completed
+ORD100686,CUST1001,2026-01-08,Clothing,Levi Jeans,71.76,3,215.28,Apple Pay,Completed
+ORD100687,CUST1240,2026-06-06,Home & Kitchen,Memory Foam Pillow,52.41,1,52.41,Credit Card,Completed
+ORD100688,CUST1219,2026-02-24,Home & Kitchen,Memory Foam Pillow,37.92,1,37.92,PayPal,Completed
+ORD100689,CUST1127,2026-04-13,Electronics,Anker Power Bank,28.77,1,28.77,Credit Card,Completed
+ORD100690,CUST1159,2026-05-11,Clothing,Levi Jeans,110.97,1,110.97,Credit Card,Completed
+ORD100691,CUST1218,2026-02-01,Electronics,Anker Power Bank,27.83,1,27.83,PayPal,Returned
+ORD100692,CUST1083,2026-01-10,Electronics,iPhone 15,817.88,1,817.88,Credit Card,Completed
+ORD100693,CUST1151,2026-07-21,Home & Kitchen,Hydro Flask,47.69,1,47.69,Credit Card,Completed
+ORD100694,CUST1139,2026-07-30,Electronics,Anker Power Bank,35.52,1,35.52,Credit Card,Completed
+ORD100695,CUST1177,2026-04-20,Electronics,iPhone 15,835.72,2,1671.44,Credit Card,Completed
+ORD100696,CUST1162,2026-06-11,Home & Kitchen,Air Fryer,108.96,1,108.96,PayPal,Completed
+ORD100697,CUST1123,2026-05-04,Home & Kitchen,Memory Foam Pillow,50.7,1,50.7,Credit Card,Completed
+ORD100698,CUST1032,2026-08-13,Home & Kitchen,Hydro Flask,41.32,1,41.32,Apple Pay,Completed
+ORD100699,CUST1160,2026-03-28,Electronics,iPhone 15,823.12,1,823.12,PayPal,Completed
+ORD100700,CUST1188,2026-02-24,Electronics,iPhone 15,803.56,1,803.56,Credit Card,Completed
+ORD100701,CUST1178,2026-08-08,Electronics,iPhone 15,796.5,1,796.5,Credit Card,Completed
+ORD100702,CUST1170,2026-02-01,Electronics,iPhone 15,798.5,1,798.5,Credit Card,Completed
+ORD100703,CUST1100,2026-06-27,Home & Kitchen,Air Fryer,101.41,1,101.41,Apple Pay,Completed
+ORD100704,CUST1011,2026-05-15,Books,Cookbook,15.74,1,15.74,Credit Card,Cancelled
+ORD100705,CUST1066,2026-04-03,Home & Kitchen,Hydro Flask,45.1,1,45.1,Apple Pay,Completed
+ORD100706,CUST1064,2026-01-08,Home & Kitchen,Air Fryer,90.52,2,181.04,Credit Card,Returned
+ORD100707,CUST1160,2026-03-06,Clothing,Nike Hoodie,55.08,1,55.08,Apple Pay,Completed
+ORD100708,CUST1167,2026-02-26,Home & Kitchen,Air Fryer,101.23,1,101.23,Credit Card,Completed
+ORD100709,CUST1073,2026-09-04,Clothing,Levi Jeans,75.35,1,75.35,Apple Pay,Completed
+ORD100710,CUST1042,2026-03-08,Clothing,Carhartt Jacket,84.53,1,84.53,Credit Card,Completed
+ORD100711,CUST1043,2026-08-04,Clothing,Carhartt Jacket,137.82,1,137.82,Credit Card,Completed
+ORD100712,CUST1028,2026-08-03,Electronics,Logitech Mouse,32.96,1,32.96,Credit Card,Completed
+ORD100713,CUST1140,2026-07-06,Clothing,Crewneck Sweater,46.25,2,92.5,Credit Card,Completed
+ORD100714,CUST1011,2026-03-13,Books,Cookbook,25.05,1,25.05,Crypto,Completed
+ORD100715,CUST1094,2026-02-23,Electronics,Logitech Mouse,39.93,1,39.93,Credit Card,Completed
+ORD100716,CUST1045,2026-09-06,Electronics,MacBook Air,954.27,1,954.27,Credit Card,Returned
+ORD100717,CUST1129,2026-08-27,Clothing,Adidas Sneakers,87.6,1,87.6,PayPal,Completed
+ORD100718,CUST1242,2026-08-17,Home & Kitchen,Air Fryer,118.26,1,118.26,Credit Card,Completed
+ORD100719,CUST1241,2026-03-08,Clothing,Carhartt Jacket,107.13,2,214.26,PayPal,Completed
+ORD100720,CUST1034,2026-02-20,Home & Kitchen,Desk Lamp,20.9,1,20.9,PayPal,Completed
+ORD100721,CUST1214,2026-04-07,Electronics,MacBook Air,1042.92,2,2085.84,Credit Card,Completed
+ORD100722,CUST1080,2026-04-02,Home & Kitchen,Air Fryer,123.24,2,246.48,Apple Pay,Cancelled
+ORD100723,CUST1089,2026-08-27,Clothing,Nike Hoodie,44.32,2,88.64,Credit Card,Completed
+ORD100724,CUST1007,2026-01-08,Books,Biography,14.42,1,14.42,Credit Card,Completed
+ORD100725,CUST1092,2026-06-11,Home & Kitchen,Ninja Blender,113.23,1,113.23,PayPal,Completed
+ORD100726,CUST1153,2026-02-04,Electronics,iPhone 15,808.36,1,808.36,PayPal,Cancelled
+ORD100727,CUST1201,2026-04-06,Electronics,Anker Power Bank,30.41,1,30.41,Credit Card,Completed
+ORD100728,CUST1089,2026-03-29,Electronics,AirPods Pro,130.67,1,130.67,PayPal,Completed
+ORD100729,CUST1161,2026-03-19,Clothing,Adidas Sneakers,123.68,2,247.36,Credit Card,Completed
+ORD100730,CUST1114,2026-02-01,Electronics,Logitech Mouse,34.84,1,34.84,Credit Card,Completed
+ORD100731,CUST1104,2026-04-30,Home & Kitchen,Desk Lamp,23.89,1,23.89,Apple Pay,Completed
+ORD100732,CUST1134,2026-02-15,Clothing,Carhartt Jacket,101.25,1,101.25,Credit Card,Completed
+ORD100733,CUST1195,2026-08-23,Electronics,AirPods Pro,142.65,1,142.65,Credit Card,Completed
+ORD100734,CUST1057,2026-05-24,Electronics,MacBook Air,993.31,1,993.31,Apple Pay,Completed
+ORD100735,CUST1244,2026-07-15,Electronics,AirPods Pro,141.12,2,282.24,Crypto,Completed
+ORD100736,CUST1113,2026-09-01,Books,Cookbook,21.11,1,21.11,Credit Card,Completed
+ORD100737,CUST1236,2026-06-14,Electronics,AirPods Pro,94.54,2,189.08,PayPal,Completed
+ORD100738,CUST1074,2026-07-01,Home & Kitchen,Memory Foam Pillow,52.9,2,105.8,PayPal,Completed
+ORD100739,CUST1156,2026-08-01,Books,Financial Freedom Manual,15.77,2,31.54,Apple Pay,Completed
+ORD100740,CUST1119,2026-05-22,Home & Kitchen,Memory Foam Pillow,40.36,1,40.36,Apple Pay,Completed
+ORD100741,CUST1163,2026-08-11,Books,Biography,23.86,2,47.72,Credit Card,Returned
+ORD100742,CUST1216,2026-02-24,Clothing,Adidas Sneakers,85.02,1,85.02,Credit Card,Completed
+ORD100743,CUST1020,2026-06-25,Books,Sci-Fi Novel,21.76,1,21.76,Credit Card,Completed
+ORD100744,CUST1248,2026-07-29,Electronics,AirPods Pro,100.61,1,100.61,Apple Pay,Completed
+ORD100745,CUST1163,2026-01-07,Electronics,AirPods Pro,106.05,1,106.05,PayPal,Completed
+ORD100746,CUST1137,2026-03-15,Home & Kitchen,Ninja Blender,100.87,1,100.87,PayPal,Completed
+ORD100747,CUST1100,2026-01-07,Books,Sci-Fi Novel,16.95,1,16.95,Crypto,Completed
+ORD100748,CUST1200,2026-06-10,Books,Financial Freedom Manual,22.54,1,22.54,Credit Card,Completed
+ORD100749,CUST1151,2026-05-31,Electronics,iPhone 15,802.86,3,2408.58,Credit Card,Completed
+ORD100750,CUST1191,2026-03-26,Electronics,Logitech Mouse,29.25,1,29.25,Credit Card,Completed
+ORD100751,CUST1226,2026-05-27,Books,Cookbook,22.81,1,22.81,Credit Card,Completed
+ORD100752,CUST1176,2026-04-22,Electronics,AirPods Pro,122.95,1,122.95,Credit Card,Completed
+ORD100753,CUST1098,2026-05-05,Home & Kitchen,Desk Lamp,29.22,1,29.22,Credit Card,Completed
+ORD100754,CUST1239,2026-05-27,Books,Biography,24.59,3,73.77,PayPal,Completed
+ORD100755,CUST1035,2026-02-05,Clothing,Carhartt Jacket,99.46,1,99.46,Apple Pay,Completed
+ORD100756,CUST1209,2026-01-29,Clothing,Carhartt Jacket,87.37,1,87.37,PayPal,Cancelled
+ORD100757,CUST1240,2026-07-07,Clothing,Crewneck Sweater,41.48,1,41.48,PayPal,Completed
+ORD100758,CUST1230,2026-03-23,Electronics,Anker Power Bank,37.57,3,112.71,Credit Card,Completed
+ORD100759,CUST1095,2026-01-02,Books,Financial Freedom Manual,25.35,1,25.35,Apple Pay,Completed
+ORD100760,CUST1151,2026-05-09,Clothing,Carhartt Jacket,73.11,2,146.22,Apple Pay,Returned
+ORD100761,CUST1150,2026-02-16,Books,Python Programming Guide,24.75,1,24.75,PayPal,Completed
+ORD100762,CUST1189,2026-07-16,Electronics,iPhone 15,839.78,1,839.78,Credit Card,Completed
+ORD100763,CUST1223,2026-05-28,Books,Financial Freedom Manual,20.7,1,20.7,Credit Card,Returned
+ORD100764,CUST1036,2026-01-11,Clothing,Crewneck Sweater,45.9,2,91.8,Credit Card,Completed
+ORD100765,CUST1011,2026-08-22,Electronics,Anker Power Bank,36.5,1,36.5,PayPal,Completed
+ORD100766,CUST1112,2026-05-10,Electronics,AirPods Pro,129.83,1,129.83,Apple Pay,Completed
+ORD100767,CUST1182,2026-07-14,Home & Kitchen,Ninja Blender,113.06,1,113.06,Apple Pay,Completed
+ORD100768,CUST1012,2026-08-03,Home & Kitchen,Air Fryer,129.95,1,129.95,Credit Card,Completed
+ORD100769,CUST1022,2026-04-29,Books,Financial Freedom Manual,26.99,1,26.99,Apple Pay,Completed
+ORD100770,CUST1216,2026-05-20,Electronics,MacBook Air,1030.66,3,3091.98,Apple Pay,Completed
+ORD100771,CUST1098,2026-01-20,Electronics,AirPods Pro,70.45,1,70.45,Credit Card,Completed
+ORD100772,CUST1104,2026-01-05,Clothing,Adidas Sneakers,89.31,1,89.31,Credit Card,Completed
+ORD100773,CUST1029,2026-02-06,Clothing,Crewneck Sweater,42.94,2,85.88,Apple Pay,Completed
+ORD100774,CUST1016,2026-06-15,Clothing,Adidas Sneakers,71.78,1,71.78,Credit Card,Completed
+ORD100775,CUST1112,2026-08-10,Books,Financial Freedom Manual,25.73,1,25.73,Apple Pay,Completed
+ORD100776,CUST1061,2026-05-17,Books,Financial Freedom Manual,13.2,1,13.2,Crypto,Completed
+ORD100777,CUST1083,2026-08-14,Books,Biography,22.81,1,22.81,PayPal,Returned
+ORD100778,CUST1111,2026-02-22,Home & Kitchen,Air Fryer,90.62,1,90.62,Apple Pay,Completed
+ORD100779,CUST1216,2026-06-21,Clothing,Levi Jeans,126.48,1,126.48,PayPal,Completed
+ORD100780,CUST1085,2026-04-09,Clothing,Carhartt Jacket,73.11,1,73.11,PayPal,Returned
+ORD100781,CUST1140,2026-09-01,Clothing,Adidas Sneakers,70.42,1,70.42,Credit Card,Completed
+ORD100782,CUST1186,2026-09-07,Books,Financial Freedom Manual,22.36,3,67.08,Credit Card,Completed
+ORD100783,CUST1018,2026-03-27,Electronics,Anker Power Bank,28.04,2,56.08,Credit Card,Returned
+ORD100784,CUST1176,2026-04-18,Clothing,Adidas Sneakers,116.47,2,232.94,PayPal,Completed
+ORD100785,CUST1099,2026-01-24,Electronics,Anker Power Bank,32.76,2,65.52,Credit Card,Completed
+ORD100786,CUST1139,2026-03-22,Clothing,Adidas Sneakers,105.37,1,105.37,Credit Card,Completed
+ORD100787,CUST1188,2026-07-21,Books,Python Programming Guide,15.07,2,30.14,Credit Card,Completed
+ORD100788,CUST1232,2026-06-07,Home & Kitchen,Ninja Blender,99.15,1,99.15,PayPal,Completed
+ORD100789,CUST1146,2026-04-30,Electronics,MacBook Air,1036.83,1,1036.83,Crypto,Returned
+ORD100790,CUST1075,2026-02-28,Books,Financial Freedom Manual,26.93,1,26.93,Crypto,Completed
+ORD100791,CUST1008,2026-08-26,Home & Kitchen,Desk Lamp,30.54,1,30.54,Credit Card,Completed
+ORD100792,CUST1198,2026-08-03,Electronics,MacBook Air,996.92,2,1993.84,Apple Pay,Completed
+ORD100793,CUST1027,2026-05-08,Electronics,Anker Power Bank,39.61,3,118.83,PayPal,Completed
+ORD100794,CUST1205,2026-08-12,Electronics,Logitech Mouse,37.21,1,37.21,PayPal,Completed
+ORD100795,CUST1222,2026-07-28,Electronics,AirPods Pro,127.2,2,254.4,PayPal,Completed
+ORD100796,CUST1127,2026-04-24,Books,Sci-Fi Novel,20.55,1,20.55,Credit Card,Completed
+ORD100797,CUST1051,2026-04-25,Clothing,Adidas Sneakers,136.62,1,136.62,Apple Pay,Completed
+ORD100798,CUST1082,2026-07-28,Books,Financial Freedom Manual,23.15,1,23.15,Credit Card,Completed
+ORD100799,CUST1249,2026-01-14,Clothing,Levi Jeans,78.8,1,78.8,Credit Card,Completed
+ORD100800,CUST1110,2026-01-09,Electronics,MacBook Air,966.73,3,2900.19,PayPal,Completed
+ORD100801,CUST1143,2026-02-09,Clothing,Crewneck Sweater,36.35,2,72.7,Credit Card,Completed
+ORD100802,CUST1116,2026-07-13,Electronics,MacBook Air,1019.7,2,2039.4,Credit Card,Completed
+ORD100803,CUST1068,2026-08-25,Clothing,Nike Hoodie,36.74,1,36.74,PayPal,Completed
+ORD100804,CUST1098,2026-01-25,Books,Financial Freedom Manual,24.21,3,72.63,Credit Card,Completed
+ORD100805,CUST1139,2026-04-13,Clothing,Carhartt Jacket,103.1,1,103.1,PayPal,Completed
+ORD100806,CUST1024,2026-07-20,Home & Kitchen,Desk Lamp,20.84,2,41.68,PayPal,Cancelled
+ORD100807,CUST1179,2026-09-03,Electronics,AirPods Pro,123.41,1,123.41,PayPal,Completed
+ORD100808,CUST1122,2026-01-22,Electronics,Anker Power Bank,38.96,1,38.96,PayPal,Completed
+ORD100809,CUST1212,2026-08-23,Electronics,AirPods Pro,71.52,1,71.52,PayPal,Completed
+ORD100810,CUST1227,2026-08-26,Clothing,Nike Hoodie,50.23,1,50.23,PayPal,Completed
+ORD100811,CUST1052,2026-01-04,Electronics,MacBook Air,995.35,1,995.35,PayPal,Completed
+ORD100812,CUST1150,2026-06-03,Clothing,Carhartt Jacket,146.86,1,146.86,Apple Pay,Completed
+ORD100813,CUST1143,2026-07-05,Clothing,Adidas Sneakers,121.11,1,121.11,PayPal,Completed
+ORD100814,CUST1056,2026-01-29,Clothing,Levi Jeans,102.14,1,102.14,Apple Pay,Returned
+ORD100815,CUST1038,2026-04-19,Electronics,Anker Power Bank,31.68,1,31.68,Credit Card,Returned
+ORD100816,CUST1108,2026-04-08,Electronics,iPhone 15,777.69,1,777.69,Credit Card,Completed
+ORD100817,CUST1180,2026-08-03,Books,Biography,14.17,1,14.17,Apple Pay,Completed
+ORD100818,CUST1041,2026-02-06,Home & Kitchen,Air Fryer,113.7,1,113.7,Credit Card,Completed
+ORD100819,CUST1185,2026-03-16,Clothing,Adidas Sneakers,74.15,1,74.15,Credit Card,Completed
+ORD100820,CUST1166,2026-03-11,Electronics,Anker Power Bank,28.46,3,85.38,PayPal,Completed
+ORD100821,CUST1141,2026-05-26,Books,Sci-Fi Novel,22.09,2,44.18,Credit Card,Completed
+ORD100822,CUST1222,2026-05-08,Home & Kitchen,Desk Lamp,24.92,1,24.92,Credit Card,Completed
+ORD100823,CUST1121,2026-03-26,Clothing,Adidas Sneakers,86.89,2,173.78,Crypto,Completed
+ORD100824,CUST1132,2026-02-11,Books,Cookbook,27.63,2,55.26,PayPal,Completed
+ORD100825,CUST1162,2026-04-10,Electronics,MacBook Air,1023.73,4,4094.92,Credit Card,Completed
+ORD100826,CUST1214,2026-02-10,Clothing,Nike Hoodie,59.92,1,59.92,Crypto,Completed
+ORD100827,CUST1220,2026-06-15,Home & Kitchen,Desk Lamp,24.31,1,24.31,Crypto,Completed
+ORD100828,CUST1234,2026-02-03,Electronics,iPhone 15,812.25,1,812.25,Credit Card,Completed
+ORD100829,CUST1074,2026-01-17,Books,Sci-Fi Novel,19.97,1,19.97,Credit Card,Completed
+ORD100830,CUST1145,2026-06-14,Home & Kitchen,Memory Foam Pillow,36.55,1,36.55,Apple Pay,Returned
+ORD100831,CUST1238,2026-06-02,Clothing,Carhartt Jacket,97.79,1,97.79,PayPal,Completed
+ORD100832,CUST1075,2026-08-18,Electronics,Anker Power Bank,39.5,2,79.0,PayPal,Completed
+ORD100833,CUST1008,2026-05-02,Electronics,iPhone 15,816.92,3,2450.76,Apple Pay,Completed
+ORD100834,CUST1073,2026-03-17,Clothing,Levi Jeans,145.03,1,145.03,PayPal,Completed
+ORD100835,CUST1185,2026-03-28,Home & Kitchen,Air Fryer,112.07,1,112.07,Credit Card,Completed
+ORD100836,CUST1235,2026-04-27,Electronics,AirPods Pro,75.67,1,75.67,PayPal,Completed
+ORD100837,CUST1144,2026-04-16,Clothing,Carhartt Jacket,83.44,2,166.88,Credit Card,Completed
+ORD100838,CUST1229,2026-03-27,Home & Kitchen,Air Fryer,108.75,1,108.75,Apple Pay,Completed
+ORD100839,CUST1006,2026-08-01,Electronics,AirPods Pro,75.98,1,75.98,PayPal,Completed
+ORD100840,CUST1173,2026-01-27,Home & Kitchen,Memory Foam Pillow,48.24,1,48.24,Credit Card,Completed
+ORD100841,CUST1140,2026-02-26,Electronics,Anker Power Bank,35.18,1,35.18,PayPal,Completed
+ORD100842,CUST1167,2026-01-31,Books,Biography,17.17,1,17.17,Credit Card,Completed
+ORD100843,CUST1169,2026-05-14,Clothing,Adidas Sneakers,96.09,1,96.09,Credit Card,Completed
+ORD100844,CUST1136,2026-08-07,Electronics,Anker Power Bank,24.64,2,49.28,PayPal,Completed
+ORD100845,CUST1177,2026-06-17,Clothing,Carhartt Jacket,136.12,4,544.48,Credit Card,Completed
+ORD100846,CUST1026,2026-04-08,Clothing,Carhartt Jacket,98.42,3,295.26,Apple Pay,Completed
+ORD100847,CUST1121,2026-01-12,Home & Kitchen,Memory Foam Pillow,42.55,3,127.65,Credit Card,Completed
+ORD100848,CUST1193,2026-08-25,Home & Kitchen,Desk Lamp,24.2,1,24.2,PayPal,Returned
+ORD100849,CUST1004,2026-09-06,Home & Kitchen,Desk Lamp,22.93,1,22.93,Apple Pay,Completed
+ORD100850,CUST1028,2026-02-22,Electronics,AirPods Pro,136.34,2,272.68,PayPal,Completed
+ORD100851,CUST1164,2026-07-18,Electronics,MacBook Air,1006.33,3,3018.99,Credit Card,Completed
+ORD100852,CUST1165,2026-05-18,Electronics,Anker Power Bank,29.56,1,29.56,Crypto,Completed
+ORD100853,CUST1082,2026-06-22,Clothing,Levi Jeans,110.43,1,110.43,Credit Card,Completed
+ORD100854,CUST1135,2026-05-25,Books,Financial Freedom Manual,13.04,1,13.04,Credit Card,Completed
+ORD100855,CUST1239,2026-06-03,Clothing,Carhartt Jacket,109.02,1,109.02,Credit Card,Completed
+ORD100856,CUST1108,2026-08-01,Electronics,iPhone 15,794.16,1,794.16,Credit Card,Completed
+ORD100857,CUST1064,2026-08-08,Clothing,Levi Jeans,135.78,1,135.78,Crypto,Completed
+ORD100858,CUST1085,2026-07-09,Books,Python Programming Guide,17.22,1,17.22,Credit Card,Completed
+ORD100859,CUST1243,2026-05-02,Home & Kitchen,Hydro Flask,46.45,1,46.45,Apple Pay,Completed
+ORD100860,CUST1144,2026-02-15,Books,Cookbook,18.2,2,36.4,Apple Pay,Completed
+ORD100861,CUST1070,2026-03-05,Electronics,AirPods Pro,123.37,1,123.37,Credit Card,Completed
+ORD100862,CUST1216,2026-05-10,Electronics,iPhone 15,836.21,1,836.21,PayPal,Completed
+ORD100863,CUST1044,2026-02-23,Books,Cookbook,27.83,1,27.83,Credit Card,Completed
+ORD100864,CUST1131,2026-04-17,Home & Kitchen,Ninja Blender,127.61,2,255.22,Credit Card,Completed
+ORD100865,CUST1035,2026-07-12,Clothing,Levi Jeans,85.6,1,85.6,Credit Card,Completed
+ORD100866,CUST1069,2026-02-20,Home & Kitchen,Hydro Flask,46.76,4,187.04,Apple Pay,Completed
+ORD100867,CUST1158,2026-06-30,Books,Sci-Fi Novel,20.38,1,20.38,Crypto,Completed
+ORD100868,CUST1018,2026-02-05,Home & Kitchen,Desk Lamp,33.73,4,134.92,Credit Card,Completed
+ORD100869,CUST1188,2026-04-25,Home & Kitchen,Desk Lamp,27.22,3,81.66,Credit Card,Completed
+ORD100870,CUST1107,2026-01-26,Clothing,Adidas Sneakers,133.97,1,133.97,Apple Pay,Completed
+ORD100871,CUST1181,2026-01-29,Clothing,Carhartt Jacket,103.28,1,103.28,Credit Card,Completed
+ORD100872,CUST1166,2026-05-29,Clothing,Crewneck Sweater,57.24,1,57.24,Apple Pay,Completed
+ORD100873,CUST1090,2026-01-11,Books,Sci-Fi Novel,15.62,1,15.62,PayPal,Completed
+ORD100874,CUST1201,2026-02-09,Books,Financial Freedom Manual,24.03,1,24.03,Credit Card,Completed
+ORD100875,CUST1089,2026-01-11,Books,Biography,20.33,1,20.33,Apple Pay,Completed
+ORD100876,CUST1018,2026-06-13,Electronics,Logitech Mouse,39.39,1,39.39,Credit Card,Completed
+ORD100877,CUST1038,2026-04-23,Home & Kitchen,Ninja Blender,119.65,1,119.65,Apple Pay,Completed
+ORD100878,CUST1125,2026-07-06,Home & Kitchen,Air Fryer,95.64,1,95.64,Apple Pay,Completed
+ORD100879,CUST1194,2026-02-08,Home & Kitchen,Desk Lamp,23.3,1,23.3,Credit Card,Completed
+ORD100880,CUST1172,2026-08-20,Home & Kitchen,Air Fryer,98.74,1,98.74,Credit Card,Completed
+ORD100881,CUST1140,2026-08-15,Books,Cookbook,19.09,1,19.09,Crypto,Completed
+ORD100882,CUST1241,2026-02-23,Clothing,Crewneck Sweater,49.41,1,49.41,Apple Pay,Completed
+ORD100883,CUST1219,2026-04-08,Clothing,Nike Hoodie,54.63,1,54.63,Credit Card,Completed
+ORD100884,CUST1125,2026-02-24,Electronics,MacBook Air,1043.88,2,2087.76,Apple Pay,Completed
+ORD100885,CUST1057,2026-04-21,Clothing,Adidas Sneakers,96.99,1,96.99,Credit Card,Completed
+ORD100886,CUST1147,2026-06-01,Home & Kitchen,Air Fryer,123.79,1,123.79,Credit Card,Completed
+ORD100887,CUST1219,2026-09-03,Home & Kitchen,Memory Foam Pillow,39.37,1,39.37,Apple Pay,Completed
+ORD100888,CUST1199,2026-05-30,Electronics,iPhone 15,752.51,2,1505.02,Credit Card,Completed
+ORD100889,CUST1060,2026-03-10,Electronics,Anker Power Bank,37.47,2,74.94,Apple Pay,Completed
+ORD100890,CUST1126,2026-02-25,Home & Kitchen,Desk Lamp,20.0,2,40.0,Credit Card,Completed
+ORD100891,CUST1104,2026-02-02,Electronics,AirPods Pro,133.4,1,133.4,PayPal,Completed
+ORD100892,CUST1166,2026-09-07,Electronics,Logitech Mouse,27.52,1,27.52,Credit Card,Completed
+ORD100893,CUST1000,2026-02-05,Electronics,iPhone 15,765.19,1,765.19,PayPal,Completed
+ORD100894,CUST1130,2026-08-27,Electronics,iPhone 15,805.42,1,805.42,PayPal,Completed
+ORD100895,CUST1204,2026-05-28,Electronics,Anker Power Bank,21.87,3,65.61,Credit Card,Completed
+ORD100896,CUST1091,2026-07-30,Clothing,Levi Jeans,88.96,1,88.96,PayPal,Completed
+ORD100897,CUST1189,2026-08-15,Clothing,Adidas Sneakers,73.19,2,146.38,Credit Card,Completed
+ORD100898,CUST1248,2026-09-01,Books,Financial Freedom Manual,16.56,1,16.56,Credit Card,Completed
+ORD100899,CUST1190,2026-08-23,Clothing,Adidas Sneakers,117.19,2,234.38,Apple Pay,Completed
+ORD100900,CUST1112,2026-03-22,Home & Kitchen,Memory Foam Pillow,46.65,1,46.65,Credit Card,Completed
+ORD100901,CUST1152,2026-07-09,Electronics,iPhone 15,820.24,1,820.24,PayPal,Completed
+ORD100902,CUST1055,2026-04-19,Electronics,AirPods Pro,130.82,1,130.82,PayPal,Returned
+ORD100903,CUST1160,2026-08-23,Home & Kitchen,Ninja Blender,118.15,1,118.15,PayPal,Returned
+ORD100904,CUST1165,2026-08-14,Electronics,Anker Power Bank,35.38,1,35.38,Credit Card,Completed
+ORD100905,CUST1116,2026-07-20,Clothing,Crewneck Sweater,52.69,2,105.38,Credit Card,Completed
+ORD100906,CUST1133,2026-06-03,Clothing,Levi Jeans,83.65,1,83.65,Credit Card,Completed
+ORD100907,CUST1057,2026-07-13,Home & Kitchen,Memory Foam Pillow,54.06,1,54.06,PayPal,Completed
+ORD100908,CUST1043,2026-09-02,Electronics,iPhone 15,801.05,1,801.05,Apple Pay,Completed
+ORD100909,CUST1172,2026-03-14,Clothing,Carhartt Jacket,123.59,1,123.59,PayPal,Completed
+ORD100910,CUST1159,2026-07-20,Home & Kitchen,Desk Lamp,30.19,2,60.38,Credit Card,Completed
+ORD100911,CUST1172,2026-02-09,Electronics,Anker Power Bank,20.99,2,41.98,Credit Card,Completed
+ORD100912,CUST1060,2026-01-17,Home & Kitchen,Desk Lamp,25.56,2,51.12,Credit Card,Completed
+ORD100913,CUST1046,2026-05-09,Home & Kitchen,Ninja Blender,107.52,2,215.04,Credit Card,Completed
+ORD100914,CUST1148,2026-08-05,Books,Sci-Fi Novel,24.93,2,49.86,Credit Card,Completed
+ORD100915,CUST1079,2026-03-02,Electronics,MacBook Air,994.89,1,994.89,Credit Card,Completed
+ORD100916,CUST1117,2026-06-20,Books,Sci-Fi Novel,18.03,2,36.06,Credit Card,Completed
+ORD100917,CUST1212,2026-04-14,Clothing,Carhartt Jacket,127.96,1,127.96,Credit Card,Completed
+ORD100918,CUST1202,2026-02-11,Clothing,Nike Hoodie,50.2,1,50.2,Credit Card,Completed
+ORD100919,CUST1228,2026-01-25,Electronics,MacBook Air,967.34,1,967.34,Credit Card,Returned
+ORD100920,CUST1163,2026-02-08,Home & Kitchen,Ninja Blender,114.42,2,228.84,Credit Card,Completed
+ORD100921,CUST1226,2026-02-04,Electronics,AirPods Pro,101.36,2,202.72,Credit Card,Completed
+ORD100922,CUST1146,2026-05-11,Clothing,Adidas Sneakers,115.47,1,115.47,PayPal,Completed
+ORD100923,CUST1019,2026-08-30,Electronics,iPhone 15,771.07,2,1542.14,Credit Card,Completed
+ORD100924,CUST1184,2026-08-17,Books,Python Programming Guide,23.15,3,69.45,Credit Card,Completed
+ORD100925,CUST1145,2026-04-18,Home & Kitchen,Memory Foam Pillow,55.87,1,55.87,Credit Card,Completed
+ORD100926,CUST1046,2026-06-21,Home & Kitchen,Hydro Flask,42.94,1,42.94,Credit Card,Completed
+ORD100927,CUST1232,2026-06-28,Electronics,Anker Power Bank,36.53,2,73.06,Credit Card,Returned
+ORD100928,CUST1048,2026-08-10,Electronics,iPhone 15,778.27,1,778.27,Credit Card,Completed
+ORD100929,CUST1013,2026-04-12,Home & Kitchen,Air Fryer,103.79,1,103.79,PayPal,Completed
+ORD100930,CUST1142,2026-04-08,Clothing,Nike Hoodie,43.3,1,43.3,Credit Card,Cancelled
+ORD100931,CUST1158,2026-01-12,Electronics,AirPods Pro,123.42,1,123.42,Credit Card,Completed
+ORD100932,CUST1000,2026-01-19,Home & Kitchen,Air Fryer,115.47,2,230.94,Apple Pay,Completed
+ORD100933,CUST1116,2026-04-11,Books,Financial Freedom Manual,22.16,1,22.16,Credit Card,Completed
+ORD100934,CUST1053,2026-02-13,Home & Kitchen,Air Fryer,97.68,2,195.36,Credit Card,Completed
+ORD100935,CUST1117,2026-07-06,Home & Kitchen,Desk Lamp,36.95,2,73.9,Apple Pay,Completed
+ORD100936,CUST1002,2026-02-18,Books,Cookbook,26.26,2,52.52,Apple Pay,Cancelled
+ORD100937,CUST1143,2026-07-08,Electronics,Logitech Mouse,27.0,1,27.0,Credit Card,Completed
+ORD100938,CUST1214,2026-01-17,Clothing,Nike Hoodie,42.03,1,42.03,Credit Card,Completed
+ORD100939,CUST1184,2026-03-15,Books,Python Programming Guide,19.82,1,19.82,Credit Card,Returned
+ORD100940,CUST1202,2026-02-26,Electronics,AirPods Pro,127.27,1,127.27,Credit Card,Completed
+ORD100941,CUST1011,2026-02-24,Home & Kitchen,Ninja Blender,103.87,2,207.74,PayPal,Completed
+ORD100942,CUST1073,2026-08-29,Clothing,Carhartt Jacket,149.2,1,149.2,Credit Card,Completed
+ORD100943,CUST1223,2026-02-16,Clothing,Levi Jeans,92.24,1,92.24,Credit Card,Completed
+ORD100944,CUST1015,2026-01-12,Home & Kitchen,Air Fryer,123.97,1,123.97,Apple Pay,Completed
+ORD100945,CUST1199,2026-03-03,Books,Python Programming Guide,18.14,2,36.28,Crypto,Cancelled
+ORD100946,CUST1101,2026-03-21,Home & Kitchen,Ninja Blender,127.41,2,254.82,Credit Card,Completed
+ORD100947,CUST1203,2026-08-04,Electronics,AirPods Pro,144.28,1,144.28,PayPal,Completed
+ORD100948,CUST1151,2026-03-24,Books,Biography,15.46,2,30.92,Credit Card,Completed
+ORD100949,CUST1155,2026-01-08,Electronics,Logitech Mouse,25.45,1,25.45,Apple Pay,Completed
+ORD100950,CUST1116,2026-08-11,Clothing,Crewneck Sweater,46.16,1,46.16,Credit Card,Completed
+ORD100951,CUST1007,2026-05-29,Clothing,Levi Jeans,85.14,2,170.28,Credit Card,Completed
+ORD100952,CUST1121,2026-03-22,Clothing,Levi Jeans,142.37,1,142.37,Credit Card,Completed
+ORD100953,CUST1091,2026-08-03,Clothing,Carhartt Jacket,130.3,3,390.9,Credit Card,Completed
+ORD100954,CUST1163,2026-08-17,Books,Python Programming Guide,15.65,1,15.65,Credit Card,Completed
+ORD100955,CUST1089,2026-04-28,Home & Kitchen,Memory Foam Pillow,37.86,1,37.86,Apple Pay,Completed
+ORD100956,CUST1135,2026-07-27,Home & Kitchen,Air Fryer,92.21,3,276.63,PayPal,Completed
+ORD100957,CUST1185,2026-07-17,Electronics,MacBook Air,971.23,1,971.23,Credit Card,Completed
+ORD100958,CUST1059,2026-07-19,Books,Cookbook,16.73,4,66.92,Credit Card,Completed
+ORD100959,CUST1177,2026-01-25,Books,Python Programming Guide,25.83,3,77.49,Credit Card,Completed
+ORD100960,CUST1027,2026-07-29,Home & Kitchen,Hydro Flask,57.38,1,57.38,Apple Pay,Completed
+ORD100961,CUST1219,2026-03-30,Electronics,Logitech Mouse,26.27,1,26.27,Apple Pay,Completed
+ORD100962,CUST1100,2026-01-12,Electronics,iPhone 15,794.0,1,794.0,Crypto,Completed
+ORD100963,CUST1040,2026-05-23,Electronics,AirPods Pro,84.76,1,84.76,Apple Pay,Completed
+ORD100964,CUST1227,2026-02-28,Electronics,AirPods Pro,118.29,1,118.29,Credit Card,Completed
+ORD100965,CUST1191,2026-06-03,Clothing,Carhartt Jacket,136.47,1,136.47,Credit Card,Completed
+ORD100966,CUST1154,2026-08-21,Books,Cookbook,24.01,1,24.01,PayPal,Completed
+ORD100967,CUST1245,2026-04-19,Clothing,Nike Hoodie,37.91,1,37.91,Apple Pay,Completed
+ORD100968,CUST1190,2026-01-26,Electronics,Anker Power Bank,29.85,4,119.4,Credit Card,Returned
+ORD100969,CUST1144,2026-02-16,Electronics,AirPods Pro,80.96,2,161.92,Credit Card,Completed
+ORD100970,CUST1200,2026-02-01,Electronics,iPhone 15,766.43,2,1532.86,Apple Pay,Completed
+ORD100971,CUST1160,2026-01-10,Electronics,iPhone 15,789.0,1,789.0,Credit Card,Completed
+ORD100972,CUST1244,2026-01-16,Electronics,iPhone 15,754.51,2,1509.02,Credit Card,Completed
+ORD100973,CUST1211,2026-07-18,Electronics,Logitech Mouse,34.65,1,34.65,PayPal,Completed
+ORD100974,CUST1204,2026-05-25,Home & Kitchen,Desk Lamp,31.62,2,63.24,Credit Card,Completed
+ORD100975,CUST1219,2026-05-31,Books,Cookbook,25.3,4,101.2,Credit Card,Completed
+ORD100976,CUST1239,2026-01-26,Clothing,Adidas Sneakers,102.86,1,102.86,Apple Pay,Completed
+ORD100977,CUST1156,2026-08-01,Clothing,Levi Jeans,96.13,1,96.13,PayPal,Completed
+ORD100978,CUST1140,2026-03-27,Books,Sci-Fi Novel,14.23,2,28.46,Crypto,Cancelled
+ORD100979,CUST1045,2026-09-07,Electronics,MacBook Air,1030.09,3,3090.27,Credit Card,Completed
+ORD100980,CUST1034,2026-05-15,Electronics,Anker Power Bank,21.96,2,43.92,Credit Card,Completed
+ORD100981,CUST1133,2026-01-14,Books,Cookbook,19.95,1,19.95,PayPal,Completed
+ORD100982,CUST1081,2026-03-20,Electronics,MacBook Air,1048.05,1,1048.05,PayPal,Completed
+ORD100983,CUST1114,2026-04-27,Home & Kitchen,Memory Foam Pillow,40.65,1,40.65,Credit Card,Completed
+ORD100984,CUST1196,2026-01-07,Clothing,Adidas Sneakers,117.58,2,235.16,Apple Pay,Completed
+ORD100985,CUST1046,2026-05-17,Clothing,Nike Hoodie,52.48,1,52.48,Credit Card,Completed
+ORD100986,CUST1152,2026-04-25,Clothing,Adidas Sneakers,122.69,2,245.38,Credit Card,Completed
+ORD100987,CUST1193,2026-06-25,Home & Kitchen,Desk Lamp,24.45,1,24.45,Credit Card,Completed
+ORD100988,CUST1009,2026-03-13,Electronics,AirPods Pro,133.15,1,133.15,Credit Card,Cancelled
+ORD100989,CUST1055,2026-08-30,Electronics,Anker Power Bank,24.91,1,24.91,Credit Card,Completed
+ORD100990,CUST1029,2026-02-28,Home & Kitchen,Desk Lamp,39.66,2,79.32,PayPal,Completed
+ORD100991,CUST1241,2026-08-03,Clothing,Nike Hoodie,35.78,1,35.78,PayPal,Completed
+ORD100992,CUST1108,2026-08-09,Electronics,AirPods Pro,104.49,1,104.49,Apple Pay,Completed
+ORD100993,CUST1004,2026-03-23,Books,Python Programming Guide,13.75,1,13.75,Credit Card,Completed
+ORD100994,CUST1118,2026-08-11,Clothing,Carhartt Jacket,72.17,1,72.17,Credit Card,Completed
+ORD100995,CUST1247,2026-08-10,Books,Sci-Fi Novel,19.86,1,19.86,Credit Card,Completed
+ORD100996,CUST1032,2026-04-26,Home & Kitchen,Memory Foam Pillow,50.34,2,100.68,Credit Card,Completed
+ORD100997,CUST1117,2026-06-16,Home & Kitchen,Ninja Blender,95.51,1,95.51,PayPal,Completed
+ORD100998,CUST1064,2026-08-15,Clothing,Levi Jeans,98.73,1,98.73,PayPal,Completed
+ORD100999,CUST1145,2026-05-26,Books,Cookbook,24.17,2,48.34,Apple Pay,Returned
