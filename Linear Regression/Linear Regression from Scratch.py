@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 
 class LinearRegression:
-    def __init__(self, learning_rate=0.0001, epochs=200):
+    def __init__(self, learning_rate=0.01, epochs=200):
         self.lr = learning_rate
         self.epochs = epochs
         self.weights = None
@@ -25,23 +25,22 @@ class LinearRegression:
     def predict(self, X):
         return np.dot(X, self.weights) + self.bias
 
-model = LinearRegression(learning_rate=0.0001, epochs=200)
+model = LinearRegression(learning_rate=0.01, epochs=500)
 scaler  = StandardScaler()
 data = pd.read_csv(r"C:\Users\HP\OneDrive\Desktop\ML models from Scratch (js numpy and math, No AI)\Linear Regression\ecommerce_sales_data.csv")
 X = data[['TotalAmount', 'Quantity']].to_numpy()
 X_scaled = scaler.fit_transform(X)
 y = data['UnitPrice'].to_numpy()
-X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.2)
-model.fit(X_train, y_train)
-preds = model.predict(X_test)
+model.fit(X_scaled, y)
+preds = model.predict(X_scaled)
 
-#evals
-predictions = model.predict(X) # This should automatically have 1000 outputs
 
 plt.figure()
-plt.scatter(X[:, 0], y_test, color='blue', label='Actual Data') 
-plt.plot(X[:, 0], predictions, color='red', label='Model Line') 
+sort_idx = np.argsort(X_scaled[:, 0])
+plt.scatter(X_scaled[:, 0], y, color='blue', label='Actual Data') 
+plt.plot(X_scaled[sort_idx], preds[sort_idx], color='red', label='Model Line') 
 plt.xlabel("Feature 1")
 plt.ylabel("Target (y)")
 plt.legend()
 plt.show()
+
