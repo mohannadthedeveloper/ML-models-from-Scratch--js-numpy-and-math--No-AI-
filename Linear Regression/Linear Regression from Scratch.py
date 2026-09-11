@@ -2,39 +2,46 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
 
 class LinearRegression:
-    def __init__(self, learning_rate=0.00001, epochs=200):
+    def __init__(self, learning_rate=0.0001, epochs=200):
         self.lr = learning_rate
         self.epochs = epochs
         self.weights = None
         self.bias = None
     
     def fit(self, X, y):
-        n = len(X)
-        num_features = X.shape
+        num_samples, num_features = X.shape
         self.weights = np.zeros(num_features)
+        self.bias = 0.0
         for _ in range(self.epochs):
-            y_pred = np.dot(self.weights, X) + self.bias
-            dw = (1 / n) * np.dot(X.T, y_pred - y)
-            db = (1 / n) * np.sum(y_pred - y)
+            y_pred = np.dot(X, self.weights) + self.bias
+            dw = (1 / num_samples) * np.dot(X.T, y_pred - y)
+            db = (1 / num_samples) * np.sum(y_pred - y)
             self.bias -= self.lr * db
             self.weights -= self.lr * dw
 
     def predict(self, X):
-        return np.dot(self.weights, X) + self.bias
+        return np.dot(X, self.weights) + self.bias
 
 model = LinearRegression(learning_rate=0.0001, epochs=200)
+scaler  = StandardScaler()
 data = pd.read_csv(r"C:\Users\HP\OneDrive\Desktop\ML models from Scratch (js numpy and math, No AI)\Linear Regression\ecommerce_sales_data.csv")
-X = data['TotalAmount'].to_numpy()
+X = data[['TotalAmount', 'Quantity']].to_numpy()
+X_scaled = scaler.fit_transform(X)
 y = data['UnitPrice'].to_numpy()
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.2)
 model.fit(X_train, y_train)
 preds = model.predict(X_test)
 
 #evals
-plt.scatter(X_test, y_test)
-plt.plot(X_test, preds, label='LinReg Model', color='orange')
+predictions = model.predict(X) # This should automatically have 1000 outputs
+
+plt.figure()
+plt.scatter(X[:, 0], y_test, color='blue', label='Actual Data') 
+plt.plot(X[:, 0], predictions, color='red', label='Model Line') 
+plt.xlabel("Feature 1")
+plt.ylabel("Target (y)")
 plt.legend()
-plt.tight_layout()
 plt.show()
