@@ -42,6 +42,9 @@ model = LogisticRegression(learning_rate=0.01, epochs=1000)
 model.fit(X_train, y_train)
 preds = model.predict(X_test)
 #evaluation
-
+preds = (preds >= 0.5).astype(int)
+plt.scatter(X_test[:, 0], preds)
+plt.plot()
+plt.show()
 
     
