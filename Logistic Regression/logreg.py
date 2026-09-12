@@ -43,8 +43,7 @@ model.fit(X_train, y_train)
 preds = model.predict(X_test)
 #evaluation
 preds = (preds >= 0.5).astype(int)
-plt.scatter(X_test[:, 0], preds)
-plt.plot()
+confusion = ConfusionMatrixDisplay.from_predictions(y_test, preds)
 plt.show()
 
     
