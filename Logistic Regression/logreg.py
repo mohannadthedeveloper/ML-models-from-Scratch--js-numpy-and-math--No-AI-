@@ -40,8 +40,8 @@ error = -(1/len(y_test)) * np.sum(
 )
 recall = recall_score(y_test, pred)
 fig, ax = plt.subplots(figsize=(6,6))
-mat = ConfusionMatrixDisplay.from_predictions(y_test, pred, ax=ax)
-plt.plot(error)
+plt.scatter(X_test, y_test, color='blue')
+plt.plot(y_p, color='orange', label='Model')
+plt.legend()
+plt.tight_layout()
 plt.show()
-
-
