@@ -5,6 +5,8 @@ Hi guys! My name is Mohannad Kahie, a high school student from Nairobi, Kenya. I
 In this repo, I build the Machine Learning models I learn entirely from **SCRATCH** (using just NumPy and raw math) to fully understand and appreciate the mathematics driving them under the hood. 
 (Also, IMAGINE using pre-built libraries to train a model... COULD NOT BE ME, gng!! 💀💀💀💀💀)
 
+**DREAM**: To qualify for the IOAI and rep my country 
+
 ---
 
 ## Repository Layout
