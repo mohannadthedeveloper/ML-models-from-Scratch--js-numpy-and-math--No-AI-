@@ -36,7 +36,7 @@ Want to see the math in action? Clone the repo and try it out:
    ```bash
    pip install -r requirements.txt
    ```
-   *(Note: Dependencies are strictly kept to a minimum—mostly just NumPy for matrix operations, plus standard data handling tools like Pandas).*
+   *(Note: Dependencies are strictly kept to a mininum, mainly NumPy for matrix operations, plus standard data handling tools like Pandas( also Scikit learn for eval and data splits).*
 
 ---
 
