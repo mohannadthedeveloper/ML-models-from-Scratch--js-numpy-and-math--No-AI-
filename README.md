@@ -5,7 +5,7 @@ Hi guys! My name is Mohannad Kahie, a high school student from Nairobi, Kenya. I
 In this repo, I build the Machine Learning models I learn entirely from **SCRATCH** (using just NumPy and raw math) to fully understand and appreciate the mathematics driving them under the hood. 
 (Also, IMAGINE using pre-built libraries to train a model... COULD NOT BE ME, gng!! 💀💀💀💀💀)
 
-**DREAM**: To qualify for the IOAI and rep my country 
+**DREAM**: To qualify for the IOAI and rep my country
 
 ---
 
@@ -45,7 +45,7 @@ Want to see the math in action? Clone the repo and try it out:
 Here is what I've cooked up so far (and what's coming next):
 *   [x] **Linear Regression:** Solved analytically using the Normal Equation matrix math.
 *   [x] **Logistic Regression:** Solved by implementing the Sigmoid function and some nice multivariable calculus
-*   [ ] **Decision Tree Classifier:** *[Currently been learnt...]*
+*   [x] **Naive Bayes Classifier:** Solved by implementing Bayes Thereom, Laplace Smoothing and Log probabilities
 *   [ ] **Neural Networks / CNNs:** *[Coming soon!]*
 *   [ ] **Transformer/GPT:** *[Coming soon!]*
 
