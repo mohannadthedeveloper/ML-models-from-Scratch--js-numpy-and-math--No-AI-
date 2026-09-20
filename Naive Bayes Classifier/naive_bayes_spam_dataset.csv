@@ -1,0 +1,11 @@
+free,offer,meeting,class
+1,1,0,spam
+1,0,0,spam
+0,1,0,spam
+1,1,0,spam
+0,0,1,not_spam
+0,0,1,not_spam
+1,1,0,spam
+0,0,1,not_spam
+1,1,0,spam
+0,0,1,not_spam
