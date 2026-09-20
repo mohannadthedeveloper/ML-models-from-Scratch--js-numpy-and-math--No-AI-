@@ -25,8 +25,7 @@ for c in class_names:
 
 #we create a fucntion that normalizes our logits so that they become acc probabilities that add up to 1
 def softmax(arr, not_arr):
-  score1 = np.exp(arr)
-  score2 = np.exp(not_arr)
+  score1, score2 = np.exp(arr), np.exp(not_arr)
   total = np.sum([score1, score2])
   prob_arr = score1 / total
   prob_not_arr = score2 / total
